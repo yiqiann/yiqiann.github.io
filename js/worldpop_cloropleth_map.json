@@ -7,6 +7,7 @@
         "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/js/ne_110m.json",
         "format": {"type": "topojson", "feature": "ne_110m"}
     },
+    "projection": {"type": "equalEarth"},
     "transform": [
         {
             "lookup": "properties.NAME",
