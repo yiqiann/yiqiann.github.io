@@ -7,7 +7,7 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
     <!-- CSS file -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/styles.css" media="all"> -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
 </head>
 
@@ -19,7 +19,7 @@
         var data_location = "data/world_population.csv"
 
         // var spec2 = "js/stacked_bar_chart.vg.json";
-        var spec2 = "js/worldpop_cloropleth_map.json"
+        var spec2 = "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/js/worldpop_cloropleth_map.json"
 
         vegaEmbed('#cloropleth_map', spec2).then(function(result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
