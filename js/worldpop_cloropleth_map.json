@@ -1,10 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "World Population (2022)",
+    "title": "World Population in 2022",
     "width": 800,
     "height": 600,
     "data": {
-        "url": "ne_110m",
+        "url": "https://raw.githubusercontent.com/yiqiann/yiqian.github.io/main/js/ne_110m.json",
         "format": {"type": "topojson", "feature": "ne_110m"}
     },
     "transform": [
@@ -12,18 +12,18 @@
             "lookup": "properties.NAME",
             "from": {
                 "data": {
-                "url": "data/world.population.csv"
+                "url": "https://raw.githubusercontent.com/yiqiann/yiqian.github.io/main/data/world_population.csv"
                 },
             "key": "Country",
-            "fields": ["Population"]
+            "fields": ["2022Population"]
             }
         },
-        {"calculate": "datum.2022Population + 0.1", "as": "Population"}
+        {"calculate": "datum.2022Population", "as": "Population"}
     ],
     "mark": "geoshape",
     "encoding": {
         "color": {
-            "field": "population",
+            "field": "Population",
             "type": "quantitative",
             "scale": {"scheme": "viridis"}
         },
