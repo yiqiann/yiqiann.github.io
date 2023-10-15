@@ -1,0 +1,2542 @@
+entity,year,schizophrenia
+Afghanistan,2007,0.164302
+Afghanistan,2008,0.164639
+Afghanistan,2009,0.164932
+Afghanistan,2010,0.16513
+Afghanistan,2011,0.165272
+Afghanistan,2012,0.165424
+Afghanistan,2013,0.165579
+Afghanistan,2014,0.165742
+Afghanistan,2015,0.165895
+Afghanistan,2016,0.166035
+Afghanistan,2017,0.166158
+Albania,2007,0.197636
+Albania,2008,0.198306
+Albania,2009,0.198905
+Albania,2010,0.199308
+Albania,2011,0.199588
+Albania,2012,0.199863
+Albania,2013,0.200134
+Albania,2014,0.200392
+Albania,2015,0.20063
+Albania,2016,0.200845
+Albania,2017,0.201025
+Algeria,2007,0.196171
+Algeria,2008,0.196505
+Algeria,2009,0.196795
+Algeria,2010,0.197004
+Algeria,2011,0.197161
+Algeria,2012,0.197312
+Algeria,2013,0.197464
+Algeria,2014,0.197602
+Algeria,2015,0.197728
+Algeria,2016,0.197836
+Algeria,2017,0.197913
+American Samoa,2007,0.249828
+American Samoa,2008,0.249795
+American Samoa,2009,0.249748
+American Samoa,2010,0.249686
+American Samoa,2011,0.249596
+American Samoa,2012,0.249481
+American Samoa,2013,0.249337
+American Samoa,2014,0.24917
+American Samoa,2015,0.248981
+American Samoa,2016,0.248777
+American Samoa,2017,0.248557
+Andean Latin America,2007,0.197746
+Andean Latin America,2008,0.198219
+Andean Latin America,2009,0.198671
+Andean Latin America,2010,0.199013
+Andean Latin America,2011,0.199295
+Andean Latin America,2012,0.199608
+Andean Latin America,2013,0.199948
+Andean Latin America,2014,0.200312
+Andean Latin America,2015,0.200693
+Andean Latin America,2016,0.201079
+Andean Latin America,2017,0.201471
+Andorra,2007,0.264885
+Andorra,2008,0.264692
+Andorra,2009,0.264457
+Andorra,2010,0.264305
+Andorra,2011,0.264054
+Andorra,2012,0.264009
+Andorra,2013,0.263869
+Andorra,2014,0.263791
+Andorra,2015,0.263713
+Andorra,2016,0.263603
+Andorra,2017,0.263512
+Angola,2007,0.167419
+Angola,2008,0.168468
+Angola,2009,0.169454
+Angola,2010,0.170158
+Angola,2011,0.170636
+Angola,2012,0.171097
+Angola,2013,0.171531
+Angola,2014,0.171928
+Angola,2015,0.172277
+Angola,2016,0.17257
+Angola,2017,0.172794
+Antigua and Barbuda,2007,0.204888
+Antigua and Barbuda,2008,0.205359
+Antigua and Barbuda,2009,0.205777
+Antigua and Barbuda,2010,0.206026
+Antigua and Barbuda,2011,0.206146
+Antigua and Barbuda,2012,0.206249
+Antigua and Barbuda,2013,0.206336
+Antigua and Barbuda,2014,0.206399
+Antigua and Barbuda,2015,0.206434
+Antigua and Barbuda,2016,0.20644
+Antigua and Barbuda,2017,0.206409
+Argentina,2007,0.19693
+Argentina,2008,0.19718
+Argentina,2009,0.1974
+Argentina,2010,0.197541
+Argentina,2011,0.197617
+Argentina,2012,0.197711
+Argentina,2013,0.197801
+Argentina,2014,0.197892
+Argentina,2015,0.197978
+Argentina,2016,0.198042
+Argentina,2017,0.198094
+Armenia,2007,0.193018
+Armenia,2008,0.193609
+Armenia,2009,0.194143
+Armenia,2010,0.194563
+Armenia,2011,0.194915
+Armenia,2012,0.195292
+Armenia,2013,0.19569
+Armenia,2014,0.196101
+Armenia,2015,0.196525
+Armenia,2016,0.196949
+Armenia,2017,0.197365
+Australasia,2007,0.362396
+Australasia,2008,0.362079
+Australasia,2009,0.3618
+Australasia,2010,0.361661
+Australasia,2011,0.361582
+Australasia,2012,0.361429
+Australasia,2013,0.361209
+Australasia,2014,0.360933
+Australasia,2015,0.36062
+Australasia,2016,0.360303
+Australasia,2017,0.359991
+Australia,2007,0.366635
+Australia,2008,0.366204
+Australia,2009,0.365813
+Australia,2010,0.365598
+Australia,2011,0.365464
+Australia,2012,0.365245
+Australia,2013,0.364942
+Australia,2014,0.364577
+Australia,2015,0.364163
+Australia,2016,0.363743
+Australia,2017,0.363326
+Austria,2007,0.25644
+Austria,2008,0.256326
+Austria,2009,0.256239
+Austria,2010,0.256201
+Austria,2011,0.256221
+Austria,2012,0.256269
+Austria,2013,0.256354
+Austria,2014,0.256479
+Austria,2015,0.256627
+Austria,2016,0.256783
+Austria,2017,0.256958
+Azerbaijan,2007,0.191468
+Azerbaijan,2008,0.193018
+Azerbaijan,2009,0.194475
+Azerbaijan,2010,0.195532
+Azerbaijan,2011,0.196291
+Azerbaijan,2012,0.197038
+Azerbaijan,2013,0.197754
+Azerbaijan,2014,0.198426
+Azerbaijan,2015,0.199034
+Azerbaijan,2016,0.199563
+Azerbaijan,2017,0.199998
+Bahamas,2007,0.205218
+Bahamas,2008,0.205231
+Bahamas,2009,0.205218
+Bahamas,2010,0.205174
+Bahamas,2011,0.205082
+Bahamas,2012,0.204943
+Bahamas,2013,0.204763
+Bahamas,2014,0.204541
+Bahamas,2015,0.204284
+Bahamas,2016,0.203992
+Bahamas,2017,0.203668
+Bahrain,2007,0.206249
+Bahrain,2008,0.206382
+Bahrain,2009,0.206511
+Bahrain,2010,0.206614
+Bahrain,2011,0.206676
+Bahrain,2012,0.206714
+Bahrain,2013,0.206761
+Bahrain,2014,0.206818
+Bahrain,2015,0.206882
+Bahrain,2016,0.206936
+Bahrain,2017,0.206969
+Bangladesh,2007,0.250968
+Bangladesh,2008,0.250971
+Bangladesh,2009,0.250977
+Bangladesh,2010,0.251016
+Bangladesh,2011,0.251094
+Bangladesh,2012,0.251231
+Bangladesh,2013,0.251418
+Bangladesh,2014,0.251651
+Bangladesh,2015,0.251929
+Bangladesh,2016,0.252249
+Bangladesh,2017,0.2526
+Barbados,2007,0.230298
+Barbados,2008,0.230442
+Barbados,2009,0.230546
+Barbados,2010,0.230576
+Barbados,2011,0.230531
+Barbados,2012,0.230445
+Barbados,2013,0.230321
+Barbados,2014,0.230152
+Barbados,2015,0.229942
+Barbados,2016,0.229685
+Barbados,2017,0.229386
+Belarus,2007,0.1927
+Belarus,2008,0.193534
+Belarus,2009,0.194306
+Belarus,2010,0.194892
+Belarus,2011,0.195331
+Belarus,2012,0.195775
+Belarus,2013,0.196204
+Belarus,2014,0.19661
+Belarus,2015,0.196995
+Belarus,2016,0.197347
+Belarus,2017,0.19765
+Belgium,2007,0.258939
+Belgium,2008,0.258193
+Belgium,2009,0.257573
+Belgium,2010,0.257307
+Belgium,2011,0.257318
+Belgium,2012,0.257358
+Belgium,2013,0.257434
+Belgium,2014,0.257537
+Belgium,2015,0.257675
+Belgium,2016,0.257856
+Belgium,2017,0.258073
+Belize,2007,0.193574
+Belize,2008,0.193839
+Belize,2009,0.194082
+Belize,2010,0.194231
+Belize,2011,0.194311
+Belize,2012,0.194412
+Belize,2013,0.194513
+Belize,2014,0.194622
+Belize,2015,0.19473
+Belize,2016,0.194829
+Belize,2017,0.194922
+Benin,2007,0.168718
+Benin,2008,0.168981
+Benin,2009,0.16921
+Benin,2010,0.169359
+Benin,2011,0.169458
+Benin,2012,0.169577
+Benin,2013,0.169711
+Benin,2014,0.169861
+Benin,2015,0.170013
+Benin,2016,0.170172
+Benin,2017,0.170322
+Bermuda,2007,0.220932
+Bermuda,2008,0.221406
+Bermuda,2009,0.221797
+Bermuda,2010,0.221988
+Bermuda,2011,0.222014
+Bermuda,2012,0.222008
+Bermuda,2013,0.22195
+Bermuda,2014,0.221842
+Bermuda,2015,0.221681
+Bermuda,2016,0.22145
+Bermuda,2017,0.221154
+Bhutan,2007,0.263276
+Bhutan,2008,0.263935
+Bhutan,2009,0.264546
+Bhutan,2010,0.265021
+Bhutan,2011,0.265423
+Bhutan,2012,0.265831
+Bhutan,2013,0.266238
+Bhutan,2014,0.266639
+Bhutan,2015,0.267006
+Bhutan,2016,0.267347
+Bhutan,2017,0.267637
+Bolivia,2007,0.190344
+Bolivia,2008,0.190613
+Bolivia,2009,0.190887
+Bolivia,2010,0.191129
+Bolivia,2011,0.191377
+Bolivia,2012,0.191689
+Bolivia,2013,0.192052
+Bolivia,2014,0.192464
+Bolivia,2015,0.192922
+Bolivia,2016,0.193412
+Bolivia,2017,0.193936
+Bosnia and Herzegovina,2007,0.198458
+Bosnia and Herzegovina,2008,0.198802
+Bosnia and Herzegovina,2009,0.1991
+Bosnia and Herzegovina,2010,0.199321
+Bosnia and Herzegovina,2011,0.199508
+Bosnia and Herzegovina,2012,0.199705
+Bosnia and Herzegovina,2013,0.199912
+Bosnia and Herzegovina,2014,0.200121
+Bosnia and Herzegovina,2015,0.200322
+Bosnia and Herzegovina,2016,0.200519
+Bosnia and Herzegovina,2017,0.200703
+Botswana,2007,0.178166
+Botswana,2008,0.178518
+Botswana,2009,0.17885
+Botswana,2010,0.179138
+Botswana,2011,0.17942
+Botswana,2012,0.179757
+Botswana,2013,0.180136
+Botswana,2014,0.180556
+Botswana,2015,0.180996
+Botswana,2016,0.181458
+Botswana,2017,0.181928
+Brazil,2007,0.203373
+Brazil,2008,0.20379
+Brazil,2009,0.204172
+Brazil,2010,0.204423
+Brazil,2011,0.204578
+Brazil,2012,0.20474
+Brazil,2013,0.204907
+Brazil,2014,0.205073
+Brazil,2015,0.205235
+Brazil,2016,0.205391
+Brazil,2017,0.205534
+Brunei,2007,0.272504
+Brunei,2008,0.272257
+Brunei,2009,0.272048
+Brunei,2010,0.271971
+Brunei,2011,0.27198
+Brunei,2012,0.272005
+Brunei,2013,0.272054
+Brunei,2014,0.272122
+Brunei,2015,0.272187
+Brunei,2016,0.272262
+Brunei,2017,0.272368
+Bulgaria,2007,0.19859
+Bulgaria,2008,0.199193
+Bulgaria,2009,0.199754
+Bulgaria,2010,0.200162
+Bulgaria,2011,0.20047
+Bulgaria,2012,0.200801
+Bulgaria,2013,0.201143
+Bulgaria,2014,0.201485
+Bulgaria,2015,0.201824
+Bulgaria,2016,0.202151
+Bulgaria,2017,0.202455
+Burkina Faso,2007,0.162078
+Burkina Faso,2008,0.162306
+Burkina Faso,2009,0.162521
+Burkina Faso,2010,0.162693
+Burkina Faso,2011,0.162859
+Burkina Faso,2012,0.16308
+Burkina Faso,2013,0.163345
+Burkina Faso,2014,0.163652
+Burkina Faso,2015,0.163992
+Burkina Faso,2016,0.164359
+Burkina Faso,2017,0.164745
+Burundi,2007,0.152764
+Burundi,2008,0.152813
+Burundi,2009,0.152862
+Burundi,2010,0.152914
+Burundi,2011,0.152992
+Burundi,2012,0.153119
+Burundi,2013,0.153296
+Burundi,2014,0.153514
+Burundi,2015,0.153772
+Burundi,2016,0.154068
+Burundi,2017,0.154394
+Cambodia,2007,0.200637
+Cambodia,2008,0.201395
+Cambodia,2009,0.202133
+Cambodia,2010,0.20282
+Cambodia,2011,0.2035
+Cambodia,2012,0.204225
+Cambodia,2013,0.204988
+Cambodia,2014,0.205779
+Cambodia,2015,0.206596
+Cambodia,2016,0.207427
+Cambodia,2017,0.208266
+Cameroon,2007,0.168348
+Cameroon,2008,0.1686
+Cameroon,2009,0.168849
+Cameroon,2010,0.169028
+Cameroon,2011,0.169167
+Cameroon,2012,0.169352
+Cameroon,2013,0.169581
+Cameroon,2014,0.169843
+Cameroon,2015,0.17014
+Cameroon,2016,0.170457
+Cameroon,2017,0.170796
+Canada,2007,0.314422
+Canada,2008,0.314223
+Canada,2009,0.314063
+Canada,2010,0.314014
+Canada,2011,0.314082
+Canada,2012,0.314213
+Canada,2013,0.314388
+Canada,2014,0.314617
+Canada,2015,0.314901
+Canada,2016,0.315232
+Canada,2017,0.315588
+Cape Verde,2007,0.186417
+Cape Verde,2008,0.187053
+Cape Verde,2009,0.187617
+Cape Verde,2010,0.188008
+Cape Verde,2011,0.188287
+Cape Verde,2012,0.188573
+Cape Verde,2013,0.188861
+Cape Verde,2014,0.189143
+Cape Verde,2015,0.189409
+Cape Verde,2016,0.189658
+Cape Verde,2017,0.18988
+Caribbean,2007,0.192906
+Caribbean,2008,0.193186
+Caribbean,2009,0.19343
+Caribbean,2010,0.193588
+Caribbean,2011,0.193655
+Caribbean,2012,0.193689
+Caribbean,2013,0.193729
+Caribbean,2014,0.19377
+Caribbean,2015,0.193809
+Caribbean,2016,0.193835
+Caribbean,2017,0.193847
+Central African Republic,2007,0.148297
+Central African Republic,2008,0.148263
+Central African Republic,2009,0.148252
+Central African Republic,2010,0.148279
+Central African Republic,2011,0.148338
+Central African Republic,2012,0.148413
+Central African Republic,2013,0.148505
+Central African Republic,2014,0.148618
+Central African Republic,2015,0.148752
+Central African Republic,2016,0.148908
+Central African Republic,2017,0.149087
+Central Asia,2007,0.187087
+Central Asia,2008,0.187774
+Central Asia,2009,0.188427
+Central Asia,2010,0.188945
+Central Asia,2011,0.18938
+Central Asia,2012,0.189852
+Central Asia,2013,0.190354
+Central Asia,2014,0.19087
+Central Asia,2015,0.191392
+Central Asia,2016,0.191906
+Central Asia,2017,0.192411
+Central Europe,2007,0.201577
+Central Europe,2008,0.202122
+Central Europe,2009,0.202626
+Central Europe,2010,0.203001
+Central Europe,2011,0.203296
+Central Europe,2012,0.203614
+Central Europe,2013,0.203952
+Central Europe,2014,0.204307
+Central Europe,2015,0.204666
+Central Europe,2016,0.205022
+Central Europe,2017,0.205371
+"Central Europe, Eastern Europe, and Central Asia",2007,0.192935
+"Central Europe, Eastern Europe, and Central Asia",2008,0.193976
+"Central Europe, Eastern Europe, and Central Asia",2009,0.19491
+"Central Europe, Eastern Europe, and Central Asia",2010,0.195512
+"Central Europe, Eastern Europe, and Central Asia",2011,0.195879
+"Central Europe, Eastern Europe, and Central Asia",2012,0.196255
+"Central Europe, Eastern Europe, and Central Asia",2013,0.196627
+"Central Europe, Eastern Europe, and Central Asia",2014,0.196984
+"Central Europe, Eastern Europe, and Central Asia",2015,0.197323
+"Central Europe, Eastern Europe, and Central Asia",2016,0.197632
+"Central Europe, Eastern Europe, and Central Asia",2017,0.197898
+Central Latin America,2007,0.204776
+Central Latin America,2008,0.205197
+Central Latin America,2009,0.20559
+Central Latin America,2010,0.205872
+Central Latin America,2011,0.206084
+Central Latin America,2012,0.206319
+Central Latin America,2013,0.206575
+Central Latin America,2014,0.206842
+Central Latin America,2015,0.207121
+Central Latin America,2016,0.207399
+Central Latin America,2017,0.207671
+Central Sub-Saharan Africa,2007,0.158255
+Central Sub-Saharan Africa,2008,0.15882
+Central Sub-Saharan Africa,2009,0.159339
+Central Sub-Saharan Africa,2010,0.159694
+Central Sub-Saharan Africa,2011,0.15993
+Central Sub-Saharan Africa,2012,0.160178
+Central Sub-Saharan Africa,2013,0.160436
+Central Sub-Saharan Africa,2014,0.16069
+Central Sub-Saharan Africa,2015,0.160928
+Central Sub-Saharan Africa,2016,0.161148
+Central Sub-Saharan Africa,2017,0.161344
+Chad,2007,0.165304
+Chad,2008,0.165711
+Chad,2009,0.166076
+Chad,2010,0.166342
+Chad,2011,0.166546
+Chad,2012,0.166766
+Chad,2013,0.167001
+Chad,2014,0.167247
+Chad,2015,0.167499
+Chad,2016,0.167757
+Chad,2017,0.168019
+Chile,2007,0.199288
+Chile,2008,0.199466
+Chile,2009,0.199636
+Chile,2010,0.199765
+Chile,2011,0.19989
+Chile,2012,0.200063
+Chile,2013,0.200287
+Chile,2014,0.200535
+Chile,2015,0.200819
+Chile,2016,0.201113
+Chile,2017,0.20143
+China,2007,0.328819
+China,2008,0.32974
+China,2009,0.330649
+China,2010,0.331409
+China,2011,0.332101
+China,2012,0.332898
+China,2013,0.333801
+China,2014,0.334796
+China,2015,0.335852
+China,2016,0.336981
+China,2017,0.338174
+Colombia,2007,0.201283
+Colombia,2008,0.201928
+Colombia,2009,0.202567
+Colombia,2010,0.203094
+Colombia,2011,0.203551
+Colombia,2012,0.204063
+Colombia,2013,0.204627
+Colombia,2014,0.205234
+Colombia,2015,0.205874
+Colombia,2016,0.206535
+Colombia,2017,0.207211
+Comoros,2007,0.169443
+Comoros,2008,0.169364
+Comoros,2009,0.1693
+Comoros,2010,0.169299
+Comoros,2011,0.169352
+Comoros,2012,0.169427
+Comoros,2013,0.169529
+Comoros,2014,0.169655
+Comoros,2015,0.169815
+Comoros,2016,0.170013
+Comoros,2017,0.170252
+Congo,2007,0.166396
+Congo,2008,0.166719
+Congo,2009,0.167037
+Congo,2010,0.1673
+Congo,2011,0.167538
+Congo,2012,0.167825
+Congo,2013,0.16815
+Congo,2014,0.16851
+Congo,2015,0.168902
+Congo,2016,0.169322
+Congo,2017,0.16976
+Costa Rica,2007,0.210183
+Costa Rica,2008,0.210683
+Costa Rica,2009,0.211143
+Costa Rica,2010,0.21148
+Costa Rica,2011,0.211746
+Costa Rica,2012,0.212048
+Costa Rica,2013,0.212385
+Costa Rica,2014,0.212742
+Costa Rica,2015,0.213118
+Costa Rica,2016,0.213501
+Costa Rica,2017,0.21389
+Cote d'Ivoire,2007,0.167263
+Cote d'Ivoire,2008,0.167285
+Cote d'Ivoire,2009,0.16733
+Cote d'Ivoire,2010,0.167403
+Cote d'Ivoire,2011,0.167541
+Cote d'Ivoire,2012,0.167774
+Cote d'Ivoire,2013,0.168098
+Cote d'Ivoire,2014,0.168506
+Cote d'Ivoire,2015,0.168989
+Cote d'Ivoire,2016,0.169549
+Cote d'Ivoire,2017,0.170171
+Croatia,2007,0.206546
+Croatia,2008,0.206993
+Croatia,2009,0.207353
+Croatia,2010,0.207557
+Croatia,2011,0.207639
+Croatia,2012,0.207709
+Croatia,2013,0.207752
+Croatia,2014,0.207762
+Croatia,2015,0.207743
+Croatia,2016,0.207679
+Croatia,2017,0.207565
+Cuba,2007,0.201655
+Cuba,2008,0.202254
+Cuba,2009,0.202795
+Cuba,2010,0.20315
+Cuba,2011,0.203372
+Cuba,2012,0.203594
+Cuba,2013,0.20381
+Cuba,2014,0.204009
+Cuba,2015,0.204195
+Cuba,2016,0.20436
+Cuba,2017,0.204501
+Cyprus,2007,0.253291
+Cyprus,2008,0.25353
+Cyprus,2009,0.253718
+Cyprus,2010,0.253793
+Cyprus,2011,0.253749
+Cyprus,2012,0.253651
+Cyprus,2013,0.253502
+Cyprus,2014,0.253292
+Cyprus,2015,0.253026
+Cyprus,2016,0.252686
+Cyprus,2017,0.252272
+Czech Republic,2007,0.208127
+Czech Republic,2008,0.208354
+Czech Republic,2009,0.208551
+Czech Republic,2010,0.208708
+Czech Republic,2011,0.208842
+Czech Republic,2012,0.208995
+Czech Republic,2013,0.209173
+Czech Republic,2014,0.209365
+Czech Republic,2015,0.209562
+Czech Republic,2016,0.20977
+Czech Republic,2017,0.209989
+Democratic Republic of Congo,2007,0.154693
+Democratic Republic of Congo,2008,0.155152
+Democratic Republic of Congo,2009,0.155561
+Democratic Republic of Congo,2010,0.15581
+Democratic Republic of Congo,2011,0.155953
+Democratic Republic of Congo,2012,0.156107
+Democratic Republic of Congo,2013,0.156267
+Democratic Republic of Congo,2014,0.156431
+Democratic Republic of Congo,2015,0.156588
+Democratic Republic of Congo,2016,0.156741
+Democratic Republic of Congo,2017,0.156883
+Denmark,2007,0.242133
+Denmark,2008,0.24763
+Denmark,2009,0.252256
+Denmark,2010,0.254268
+Denmark,2011,0.254384
+Denmark,2012,0.254474
+Denmark,2013,0.254523
+Denmark,2014,0.254513
+Denmark,2015,0.254433
+Denmark,2016,0.254273
+Denmark,2017,0.254017
+Djibouti,2007,0.171879
+Djibouti,2008,0.172076
+Djibouti,2009,0.17228
+Djibouti,2010,0.172478
+Djibouti,2011,0.172702
+Djibouti,2012,0.173005
+Djibouti,2013,0.173376
+Djibouti,2014,0.173816
+Djibouti,2015,0.174312
+Djibouti,2016,0.174859
+Djibouti,2017,0.175444
+Dominica,2007,0.198438
+Dominica,2008,0.198746
+Dominica,2009,0.199015
+Dominica,2010,0.199179
+Dominica,2011,0.199261
+Dominica,2012,0.199355
+Dominica,2013,0.19946
+Dominica,2014,0.199573
+Dominica,2015,0.199683
+Dominica,2016,0.199792
+Dominica,2017,0.199904
+Dominican Republic,2007,0.195262
+Dominican Republic,2008,0.195852
+Dominican Republic,2009,0.196412
+Dominican Republic,2010,0.196826
+Dominican Republic,2011,0.197144
+Dominican Republic,2012,0.197501
+Dominican Republic,2013,0.197884
+Dominican Republic,2014,0.198279
+Dominican Republic,2015,0.198681
+Dominican Republic,2016,0.199078
+Dominican Republic,2017,0.199462
+East Asia,2007,0.325969
+East Asia,2008,0.326877
+East Asia,2009,0.327773
+East Asia,2010,0.328522
+East Asia,2011,0.329209
+East Asia,2012,0.330001
+East Asia,2013,0.330893
+East Asia,2014,0.331872
+East Asia,2015,0.332907
+East Asia,2016,0.334014
+East Asia,2017,0.33518
+Eastern Europe,2007,0.190715
+Eastern Europe,2008,0.1922
+Eastern Europe,2009,0.193517
+Eastern Europe,2010,0.194316
+Eastern Europe,2011,0.194738
+Eastern Europe,2012,0.195146
+Eastern Europe,2013,0.19553
+Eastern Europe,2014,0.195873
+Eastern Europe,2015,0.196169
+Eastern Europe,2016,0.196408
+Eastern Europe,2017,0.19657
+Eastern Sub-Saharan Africa,2007,0.159318
+Eastern Sub-Saharan Africa,2008,0.159826
+Eastern Sub-Saharan Africa,2009,0.160315
+Eastern Sub-Saharan Africa,2010,0.16072
+Eastern Sub-Saharan Africa,2011,0.161072
+Eastern Sub-Saharan Africa,2012,0.161445
+Eastern Sub-Saharan Africa,2013,0.161832
+Eastern Sub-Saharan Africa,2014,0.162234
+Eastern Sub-Saharan Africa,2015,0.162643
+Eastern Sub-Saharan Africa,2016,0.163052
+Eastern Sub-Saharan Africa,2017,0.163459
+Ecuador,2007,0.199071
+Ecuador,2008,0.199501
+Ecuador,2009,0.19991
+Ecuador,2010,0.200232
+Ecuador,2011,0.200526
+Ecuador,2012,0.20086
+Ecuador,2013,0.201224
+Ecuador,2014,0.201619
+Ecuador,2015,0.202036
+Ecuador,2016,0.20247
+Ecuador,2017,0.202912
+Egypt,2007,0.185262
+Egypt,2008,0.18556
+Egypt,2009,0.185839
+Egypt,2010,0.186055
+Egypt,2011,0.186246
+Egypt,2012,0.186477
+Egypt,2013,0.186754
+Egypt,2014,0.187059
+Egypt,2015,0.187391
+Egypt,2016,0.187745
+Egypt,2017,0.188117
+El Salvador,2007,0.194084
+El Salvador,2008,0.194484
+El Salvador,2009,0.194857
+El Salvador,2010,0.195155
+El Salvador,2011,0.19542
+El Salvador,2012,0.195735
+El Salvador,2013,0.196091
+El Salvador,2014,0.196483
+El Salvador,2015,0.196909
+El Salvador,2016,0.197357
+El Salvador,2017,0.197831
+England,2007,0.25454
+England,2008,0.253955
+England,2009,0.25357
+England,2010,0.253641
+England,2011,0.254217
+England,2012,0.255208
+England,2013,0.256603
+England,2014,0.258395
+England,2015,0.26057
+England,2016,0.263113
+England,2017,0.266007
+Equatorial Guinea,2007,0.181646
+Equatorial Guinea,2008,0.182104
+Equatorial Guinea,2009,0.182512
+Equatorial Guinea,2010,0.182856
+Equatorial Guinea,2011,0.183182
+Equatorial Guinea,2012,0.183527
+Equatorial Guinea,2013,0.183887
+Equatorial Guinea,2014,0.184256
+Equatorial Guinea,2015,0.184624
+Equatorial Guinea,2016,0.184986
+Equatorial Guinea,2017,0.185334
+Eritrea,2007,0.159227
+Eritrea,2008,0.158821
+Eritrea,2009,0.158476
+Eritrea,2010,0.15832
+Eritrea,2011,0.158298
+Eritrea,2012,0.158294
+Eritrea,2013,0.15831
+Eritrea,2014,0.158354
+Eritrea,2015,0.158428
+Eritrea,2016,0.158544
+Eritrea,2017,0.158711
+Estonia,2007,0.200382
+Estonia,2008,0.200977
+Estonia,2009,0.201505
+Estonia,2010,0.201904
+Estonia,2011,0.202214
+Estonia,2012,0.202527
+Estonia,2013,0.202844
+Estonia,2014,0.203149
+Estonia,2015,0.203442
+Estonia,2016,0.203719
+Estonia,2017,0.203978
+Ethiopia,2007,0.15682
+Ethiopia,2008,0.15775
+Ethiopia,2009,0.158688
+Ethiopia,2010,0.159497
+Ethiopia,2011,0.160215
+Ethiopia,2012,0.16096
+Ethiopia,2013,0.161725
+Ethiopia,2014,0.162503
+Ethiopia,2015,0.163285
+Ethiopia,2016,0.164061
+Ethiopia,2017,0.164823
+Fiji,2007,0.23566
+Fiji,2008,0.236118
+Fiji,2009,0.236536
+Fiji,2010,0.236818
+Fiji,2011,0.23702
+Fiji,2012,0.237242
+Fiji,2013,0.23749
+Fiji,2014,0.237749
+Fiji,2015,0.23802
+Fiji,2016,0.238295
+Fiji,2017,0.238572
+Finland,2007,0.269105
+Finland,2008,0.269138
+Finland,2009,0.269107
+Finland,2010,0.268967
+Finland,2011,0.268488
+Finland,2012,0.267525
+Finland,2013,0.266139
+Finland,2014,0.264376
+Finland,2015,0.262308
+Finland,2016,0.259967
+Finland,2017,0.257444
+France,2007,0.258517
+France,2008,0.25809
+France,2009,0.257696
+France,2010,0.257443
+France,2011,0.257284
+France,2012,0.257108
+France,2013,0.256916
+France,2014,0.256726
+France,2015,0.256537
+France,2016,0.256378
+France,2017,0.256238
+Gabon,2007,0.18116
+Gabon,2008,0.181061
+Gabon,2009,0.180979
+Gabon,2010,0.180967
+Gabon,2011,0.181005
+Gabon,2012,0.181052
+Gabon,2013,0.181112
+Gabon,2014,0.181185
+Gabon,2015,0.181283
+Gabon,2016,0.181401
+Gabon,2017,0.181546
+Gambia,2007,0.169414
+Gambia,2008,0.169413
+Gambia,2009,0.169412
+Gambia,2010,0.169424
+Gambia,2011,0.169449
+Gambia,2012,0.169477
+Gambia,2013,0.16951
+Gambia,2014,0.169544
+Gambia,2015,0.169585
+Gambia,2016,0.16963
+Gambia,2017,0.169677
+Georgia,2007,0.191413
+Georgia,2008,0.192092
+Georgia,2009,0.192744
+Georgia,2010,0.193265
+Georgia,2011,0.19372
+Georgia,2012,0.194199
+Georgia,2013,0.194697
+Georgia,2014,0.195209
+Georgia,2015,0.195737
+Georgia,2016,0.196261
+Georgia,2017,0.196776
+Germany,2007,0.252067
+Germany,2008,0.2518
+Germany,2009,0.251566
+Germany,2010,0.251478
+Germany,2011,0.251485
+Germany,2012,0.251494
+Germany,2013,0.251527
+Germany,2014,0.251591
+Germany,2015,0.25172
+Germany,2016,0.251956
+Germany,2017,0.252269
+Ghana,2007,0.170802
+Ghana,2008,0.171028
+Ghana,2009,0.171267
+Ghana,2010,0.171515
+Ghana,2011,0.171816
+Ghana,2012,0.172222
+Ghana,2013,0.172728
+Ghana,2014,0.173326
+Ghana,2015,0.174007
+Ghana,2016,0.174769
+Ghana,2017,0.175606
+Greece,2007,0.253757
+Greece,2008,0.253982
+Greece,2009,0.254121
+Greece,2010,0.254124
+Greece,2011,0.25403
+Greece,2012,0.253911
+Greece,2013,0.25375
+Greece,2014,0.253543
+Greece,2015,0.2533
+Greece,2016,0.253015
+Greece,2017,0.252701
+Greenland,2007,0.317974
+Greenland,2008,0.317957
+Greenland,2009,0.317994
+Greenland,2010,0.318068
+Greenland,2011,0.318217
+Greenland,2012,0.318492
+Greenland,2013,0.318891
+Greenland,2014,0.319439
+Greenland,2015,0.320176
+Greenland,2016,0.321111
+Greenland,2017,0.32225
+Grenada,2007,0.197781
+Grenada,2008,0.19824
+Grenada,2009,0.198651
+Grenada,2010,0.198914
+Grenada,2011,0.199074
+Grenada,2012,0.199233
+Grenada,2013,0.199385
+Grenada,2014,0.199527
+Grenada,2015,0.199652
+Grenada,2016,0.199751
+Grenada,2017,0.199822
+Guam,2007,0.261225
+Guam,2008,0.261275
+Guam,2009,0.26132
+Guam,2010,0.261332
+Guam,2011,0.261324
+Guam,2012,0.261313
+Guam,2013,0.261305
+Guam,2014,0.261292
+Guam,2015,0.261287
+Guam,2016,0.261274
+Guam,2017,0.261254
+Guatemala,2007,0.190724
+Guatemala,2008,0.191056
+Guatemala,2009,0.191358
+Guatemala,2010,0.191585
+Guatemala,2011,0.191773
+Guatemala,2012,0.191989
+Guatemala,2013,0.19223
+Guatemala,2014,0.192491
+Guatemala,2015,0.192765
+Guatemala,2016,0.193053
+Guatemala,2017,0.193344
+Guinea,2007,0.164985
+Guinea,2008,0.164884
+Guinea,2009,0.164815
+Guinea,2010,0.164815
+Guinea,2011,0.16489
+Guinea,2012,0.165015
+Guinea,2013,0.16519
+Guinea,2014,0.165411
+Guinea,2015,0.165683
+Guinea,2016,0.166012
+Guinea,2017,0.166393
+Guinea-Bissau,2007,0.161964
+Guinea-Bissau,2008,0.161975
+Guinea-Bissau,2009,0.162004
+Guinea-Bissau,2010,0.162056
+Guinea-Bissau,2011,0.162134
+Guinea-Bissau,2012,0.162238
+Guinea-Bissau,2013,0.162363
+Guinea-Bissau,2014,0.162516
+Guinea-Bissau,2015,0.162693
+Guinea-Bissau,2016,0.162894
+Guinea-Bissau,2017,0.163117
+Guyana,2007,0.183044
+Guyana,2008,0.183344
+Guyana,2009,0.183647
+Guyana,2010,0.183889
+Guyana,2011,0.184115
+Guyana,2012,0.1844
+Guyana,2013,0.184738
+Guyana,2014,0.185126
+Guyana,2015,0.185546
+Guyana,2016,0.185998
+Guyana,2017,0.186468
+Haiti,2007,0.171097
+Haiti,2008,0.171379
+Haiti,2009,0.171631
+Haiti,2010,0.171735
+Haiti,2011,0.171773
+Haiti,2012,0.171865
+Haiti,2013,0.171961
+Haiti,2014,0.172057
+Haiti,2015,0.172146
+Haiti,2016,0.172228
+Haiti,2017,0.172298
+High SDI,2007,0.292595
+High SDI,2008,0.293066
+High SDI,2009,0.293516
+High SDI,2010,0.293916
+High SDI,2011,0.294248
+High SDI,2012,0.294479
+High SDI,2013,0.29462
+High SDI,2014,0.294682
+High SDI,2015,0.294665
+High SDI,2016,0.29456
+High SDI,2017,0.294427
+High-income,2007,0.288666
+High-income,2008,0.288835
+High-income,2009,0.288982
+High-income,2010,0.289089
+High-income,2011,0.289135
+High-income,2012,0.289082
+High-income,2013,0.28895
+High-income,2014,0.288753
+High-income,2015,0.288489
+High-income,2016,0.288161
+High-income,2017,0.28782
+High-income Asia Pacific,2007,0.284362
+High-income Asia Pacific,2008,0.286935
+High-income Asia Pacific,2009,0.289117
+High-income Asia Pacific,2010,0.290148
+High-income Asia Pacific,2011,0.290207
+High-income Asia Pacific,2012,0.290011
+High-income Asia Pacific,2013,0.289543
+High-income Asia Pacific,2014,0.288799
+High-income Asia Pacific,2015,0.287779
+High-income Asia Pacific,2016,0.286475
+High-income Asia Pacific,2017,0.284882
+High-middle SDI,2007,0.266953
+High-middle SDI,2008,0.268071
+High-middle SDI,2009,0.269086
+High-middle SDI,2010,0.269933
+High-middle SDI,2011,0.270607
+High-middle SDI,2012,0.271294
+High-middle SDI,2013,0.272003
+High-middle SDI,2014,0.27276
+High-middle SDI,2015,0.273527
+High-middle SDI,2016,0.274292
+High-middle SDI,2017,0.275017
+Honduras,2007,0.187164
+Honduras,2008,0.187524
+Honduras,2009,0.18786
+Honduras,2010,0.1881
+Honduras,2011,0.188283
+Honduras,2012,0.188486
+Honduras,2013,0.188718
+Honduras,2014,0.188971
+Honduras,2015,0.189238
+Honduras,2016,0.18952
+Honduras,2017,0.189815
+Hungary,2007,0.203272
+Hungary,2008,0.203766
+Hungary,2009,0.204192
+Hungary,2010,0.204445
+Hungary,2011,0.204595
+Hungary,2012,0.204751
+Hungary,2013,0.204916
+Hungary,2014,0.205079
+Hungary,2015,0.205242
+Hungary,2016,0.205388
+Hungary,2017,0.205524
+Iceland,2007,0.257045
+Iceland,2008,0.257044
+Iceland,2009,0.256947
+Iceland,2010,0.256847
+Iceland,2011,0.25679
+Iceland,2012,0.256801
+Iceland,2013,0.256879
+Iceland,2014,0.256999
+Iceland,2015,0.257168
+Iceland,2016,0.257376
+Iceland,2017,0.257617
+India,2007,0.262923
+India,2008,0.263258
+India,2009,0.263537
+India,2010,0.263676
+India,2011,0.263563
+India,2012,0.263156
+India,2013,0.262489
+India,2014,0.261596
+India,2015,0.260509
+India,2016,0.259256
+India,2017,0.257864
+Indonesia,2007,0.2229
+Indonesia,2008,0.223427
+Indonesia,2009,0.223974
+Indonesia,2010,0.224499
+Indonesia,2011,0.225059
+Indonesia,2012,0.225729
+Indonesia,2013,0.226495
+Indonesia,2014,0.227347
+Indonesia,2015,0.228273
+Indonesia,2016,0.22926
+Indonesia,2017,0.230297
+Iran,2007,0.200395
+Iran,2008,0.200773
+Iran,2009,0.20107
+Iran,2010,0.201231
+Iran,2011,0.201296
+Iran,2012,0.201357
+Iran,2013,0.201403
+Iran,2014,0.201429
+Iran,2015,0.201429
+Iran,2016,0.20139
+Iran,2017,0.201307
+Iraq,2007,0.186292
+Iraq,2008,0.18647
+Iraq,2009,0.186658
+Iraq,2010,0.186861
+Iraq,2011,0.187105
+Iraq,2012,0.187411
+Iraq,2013,0.187774
+Iraq,2014,0.188192
+Iraq,2015,0.188659
+Iraq,2016,0.189173
+Iraq,2017,0.189729
+Ireland,2007,0.32157
+Ireland,2008,0.323275
+Ireland,2009,0.324699
+Ireland,2010,0.325505
+Ireland,2011,0.325887
+Ireland,2012,0.326288
+Ireland,2013,0.326688
+Ireland,2014,0.327089
+Ireland,2015,0.327456
+Ireland,2016,0.327779
+Ireland,2017,0.328008
+Israel,2007,0.261523
+Israel,2008,0.262041
+Israel,2009,0.262472
+Israel,2010,0.262677
+Israel,2011,0.262633
+Israel,2012,0.262423
+Israel,2013,0.262064
+Israel,2014,0.261536
+Israel,2015,0.260875
+Israel,2016,0.260075
+Israel,2017,0.259139
+Italy,2007,0.236735
+Italy,2008,0.236887
+Italy,2009,0.237003
+Italy,2010,0.237026
+Italy,2011,0.236973
+Italy,2012,0.236901
+Italy,2013,0.236809
+Italy,2014,0.236688
+Italy,2015,0.236545
+Italy,2016,0.236385
+Italy,2017,0.236197
+Jamaica,2007,0.198374
+Jamaica,2008,0.198634
+Jamaica,2009,0.198868
+Jamaica,2010,0.199009
+Jamaica,2011,0.199068
+Jamaica,2012,0.199126
+Jamaica,2013,0.199179
+Jamaica,2014,0.199222
+Jamaica,2015,0.199259
+Jamaica,2016,0.199275
+Jamaica,2017,0.19927
+Japan,2007,0.294921
+Japan,2008,0.298689
+Japan,2009,0.301931
+Japan,2010,0.303509
+Japan,2011,0.303683
+Japan,2012,0.303467
+Japan,2013,0.302834
+Japan,2014,0.30175
+Japan,2015,0.300201
+Japan,2016,0.298155
+Japan,2017,0.295578
+Jordan,2007,0.192036
+Jordan,2008,0.192194
+Jordan,2009,0.192352
+Jordan,2010,0.192498
+Jordan,2011,0.192642
+Jordan,2012,0.192808
+Jordan,2013,0.192991
+Jordan,2014,0.193194
+Jordan,2015,0.193415
+Jordan,2016,0.193645
+Jordan,2017,0.193886
+Kazakhstan,2007,0.193663
+Kazakhstan,2008,0.19461
+Kazakhstan,2009,0.195483
+Kazakhstan,2010,0.196167
+Kazakhstan,2011,0.196722
+Kazakhstan,2012,0.19728
+Kazakhstan,2013,0.19784
+Kazakhstan,2014,0.198389
+Kazakhstan,2015,0.19892
+Kazakhstan,2016,0.199423
+Kazakhstan,2017,0.199892
+Kenya,2007,0.168684
+Kenya,2008,0.168861
+Kenya,2009,0.16903
+Kenya,2010,0.169163
+Kenya,2011,0.169296
+Kenya,2012,0.169472
+Kenya,2013,0.169687
+Kenya,2014,0.169936
+Kenya,2015,0.170214
+Kenya,2016,0.170516
+Kenya,2017,0.170836
+Kiribati,2007,0.208465
+Kiribati,2008,0.208426
+Kiribati,2009,0.208388
+Kiribati,2010,0.208367
+Kiribati,2011,0.208352
+Kiribati,2012,0.208329
+Kiribati,2013,0.208295
+Kiribati,2014,0.208252
+Kiribati,2015,0.208208
+Kiribati,2016,0.208158
+Kiribati,2017,0.208108
+Kuwait,2007,0.214395
+Kuwait,2008,0.214605
+Kuwait,2009,0.214773
+Kuwait,2010,0.214856
+Kuwait,2011,0.214887
+Kuwait,2012,0.214907
+Kuwait,2013,0.214925
+Kuwait,2014,0.214931
+Kuwait,2015,0.21492
+Kuwait,2016,0.214902
+Kuwait,2017,0.214851
+Kyrgyzstan,2007,0.179652
+Kyrgyzstan,2008,0.179871
+Kyrgyzstan,2009,0.180088
+Kyrgyzstan,2010,0.180277
+Kyrgyzstan,2011,0.180458
+Kyrgyzstan,2012,0.180673
+Kyrgyzstan,2013,0.180913
+Kyrgyzstan,2014,0.181177
+Kyrgyzstan,2015,0.181469
+Kyrgyzstan,2016,0.181777
+Kyrgyzstan,2017,0.182097
+Laos,2007,0.206645
+Laos,2008,0.207432
+Laos,2009,0.208227
+Laos,2010,0.209006
+Laos,2011,0.209824
+Laos,2012,0.210743
+Laos,2013,0.211746
+Laos,2014,0.212831
+Laos,2015,0.21398
+Laos,2016,0.215194
+Laos,2017,0.216455
+Latin America and Caribbean,2007,0.202453
+Latin America and Caribbean,2008,0.20288
+Latin America and Caribbean,2009,0.203275
+Latin America and Caribbean,2010,0.203554
+Latin America and Caribbean,2011,0.203751
+Latin America and Caribbean,2012,0.203958
+Latin America and Caribbean,2013,0.204178
+Latin America and Caribbean,2014,0.204407
+Latin America and Caribbean,2015,0.204643
+Latin America and Caribbean,2016,0.204877
+Latin America and Caribbean,2017,0.205103
+Latvia,2007,0.195713
+Latvia,2008,0.196366
+Latvia,2009,0.196951
+Latvia,2010,0.197386
+Latvia,2011,0.19772
+Latvia,2012,0.198054
+Latvia,2013,0.198386
+Latvia,2014,0.198699
+Latvia,2015,0.199003
+Latvia,2016,0.19927
+Latvia,2017,0.19951
+Lebanon,2007,0.196559
+Lebanon,2008,0.196794
+Lebanon,2009,0.197011
+Lebanon,2010,0.197186
+Lebanon,2011,0.197341
+Lebanon,2012,0.197506
+Lebanon,2013,0.197686
+Lebanon,2014,0.19786
+Lebanon,2015,0.198035
+Lebanon,2016,0.198207
+Lebanon,2017,0.198376
+Lesotho,2007,0.158141
+Lesotho,2008,0.158345
+Lesotho,2009,0.158547
+Lesotho,2010,0.158735
+Lesotho,2011,0.158956
+Lesotho,2012,0.15924
+Lesotho,2013,0.159581
+Lesotho,2014,0.159974
+Lesotho,2015,0.160409
+Lesotho,2016,0.160878
+Lesotho,2017,0.161376
+Liberia,2007,0.159223
+Liberia,2008,0.159301
+Liberia,2009,0.15938
+Liberia,2010,0.159472
+Liberia,2011,0.159605
+Liberia,2012,0.159791
+Liberia,2013,0.160034
+Liberia,2014,0.160325
+Liberia,2015,0.160661
+Liberia,2016,0.161041
+Liberia,2017,0.161454
+Libya,2007,0.198582
+Libya,2008,0.198904
+Libya,2009,0.199142
+Libya,2010,0.199179
+Libya,2011,0.198929
+Libya,2012,0.198433
+Libya,2013,0.19771
+Libya,2014,0.196752
+Libya,2015,0.195619
+Libya,2016,0.194301
+Libya,2017,0.192849
+Lithuania,2007,0.1953
+Lithuania,2008,0.195964
+Lithuania,2009,0.196598
+Lithuania,2010,0.197111
+Lithuania,2011,0.19756
+Lithuania,2012,0.198059
+Lithuania,2013,0.1986
+Lithuania,2014,0.199167
+Lithuania,2015,0.19976
+Lithuania,2016,0.200374
+Lithuania,2017,0.200982
+Low SDI,2007,0.212706
+Low SDI,2008,0.212784
+Low SDI,2009,0.212841
+Low SDI,2010,0.212826
+Low SDI,2011,0.212708
+Low SDI,2012,0.212512
+Low SDI,2013,0.212253
+Low SDI,2014,0.211956
+Low SDI,2015,0.211617
+Low SDI,2016,0.211215
+Low SDI,2017,0.210762
+Low-middle SDI,2007,0.231181
+Low-middle SDI,2008,0.231351
+Low-middle SDI,2009,0.231491
+Low-middle SDI,2010,0.231522
+Low-middle SDI,2011,0.231419
+Low-middle SDI,2012,0.231235
+Low-middle SDI,2013,0.230989
+Low-middle SDI,2014,0.230688
+Low-middle SDI,2015,0.23033
+Low-middle SDI,2016,0.229915
+Low-middle SDI,2017,0.229452
+Luxembourg,2007,0.262885
+Luxembourg,2008,0.262918
+Luxembourg,2009,0.262941
+Luxembourg,2010,0.262974
+Luxembourg,2011,0.263021
+Luxembourg,2012,0.263085
+Luxembourg,2013,0.263177
+Luxembourg,2014,0.263268
+Luxembourg,2015,0.263374
+Luxembourg,2016,0.263502
+Luxembourg,2017,0.263622
+Macedonia,2007,0.199535
+Macedonia,2008,0.199933
+Macedonia,2009,0.200318
+Macedonia,2010,0.200609
+Macedonia,2011,0.200841
+Macedonia,2012,0.201105
+Macedonia,2013,0.201396
+Macedonia,2014,0.201703
+Macedonia,2015,0.202024
+Macedonia,2016,0.202345
+Macedonia,2017,0.202672
+Madagascar,2007,0.163267
+Madagascar,2008,0.163277
+Madagascar,2009,0.16329
+Madagascar,2010,0.163314
+Madagascar,2011,0.163355
+Madagascar,2012,0.16343
+Madagascar,2013,0.163537
+Madagascar,2014,0.163678
+Madagascar,2015,0.163845
+Madagascar,2016,0.164047
+Madagascar,2017,0.16428
+Malawi,2007,0.15246
+Malawi,2008,0.152783
+Malawi,2009,0.153078
+Malawi,2010,0.15328
+Malawi,2011,0.153418
+Malawi,2012,0.153577
+Malawi,2013,0.153756
+Malawi,2014,0.153945
+Malawi,2015,0.154141
+Malawi,2016,0.154339
+Malawi,2017,0.154533
+Malaysia,2007,0.246679
+Malaysia,2008,0.247105
+Malaysia,2009,0.247522
+Malaysia,2010,0.247947
+Malaysia,2011,0.248416
+Malaysia,2012,0.248987
+Malaysia,2013,0.249653
+Malaysia,2014,0.250391
+Malaysia,2015,0.251197
+Malaysia,2016,0.252067
+Malaysia,2017,0.252984
+Maldives,2007,0.234659
+Maldives,2008,0.235794
+Maldives,2009,0.236921
+Maldives,2010,0.237926
+Maldives,2011,0.238868
+Maldives,2012,0.239861
+Maldives,2013,0.240879
+Maldives,2014,0.241898
+Maldives,2015,0.242883
+Maldives,2016,0.243821
+Maldives,2017,0.244707
+Mali,2007,0.165984
+Mali,2008,0.166169
+Mali,2009,0.166345
+Mali,2010,0.166485
+Mali,2011,0.16661
+Mali,2012,0.166761
+Mali,2013,0.166936
+Mali,2014,0.167126
+Mali,2015,0.16733
+Mali,2016,0.167539
+Mali,2017,0.167751
+Malta,2007,0.256091
+Malta,2008,0.256127
+Malta,2009,0.256167
+Malta,2010,0.25622
+Malta,2011,0.256313
+Malta,2012,0.256444
+Malta,2013,0.256622
+Malta,2014,0.256825
+Malta,2015,0.257058
+Malta,2016,0.25733
+Malta,2017,0.257632
+Marshall Islands,2007,0.216893
+Marshall Islands,2008,0.217145
+Marshall Islands,2009,0.217369
+Marshall Islands,2010,0.217531
+Marshall Islands,2011,0.217647
+Marshall Islands,2012,0.217784
+Marshall Islands,2013,0.217933
+Marshall Islands,2014,0.218096
+Marshall Islands,2015,0.218266
+Marshall Islands,2016,0.21844
+Marshall Islands,2017,0.218616
+Mauritania,2007,0.176429
+Mauritania,2008,0.176887
+Mauritania,2009,0.17731
+Mauritania,2010,0.177601
+Mauritania,2011,0.1778
+Mauritania,2012,0.178024
+Mauritania,2013,0.178262
+Mauritania,2014,0.178508
+Mauritania,2015,0.17875
+Mauritania,2016,0.178985
+Mauritania,2017,0.179205
+Mauritius,2007,0.236729
+Mauritius,2008,0.237056
+Mauritius,2009,0.237385
+Mauritius,2010,0.237723
+Mauritius,2011,0.238116
+Mauritius,2012,0.238609
+Mauritius,2013,0.239192
+Mauritius,2014,0.239853
+Mauritius,2015,0.240582
+Mauritius,2016,0.241363
+Mauritius,2017,0.242185
+Mexico,2007,0.209685
+Mexico,2008,0.209978
+Mexico,2009,0.210241
+Mexico,2010,0.210427
+Mexico,2011,0.210574
+Mexico,2012,0.210741
+Mexico,2013,0.210926
+Mexico,2014,0.211124
+Mexico,2015,0.211334
+Mexico,2016,0.211551
+Mexico,2017,0.211765
+Micronesia (country),2007,0.218876
+Micronesia (country),2008,0.218986
+Micronesia (country),2009,0.219074
+Micronesia (country),2010,0.219124
+Micronesia (country),2011,0.219154
+Micronesia (country),2012,0.219188
+Micronesia (country),2013,0.219218
+Micronesia (country),2014,0.219244
+Micronesia (country),2015,0.219265
+Micronesia (country),2016,0.219282
+Micronesia (country),2017,0.219298
+Middle SDI,2007,0.259354
+Middle SDI,2008,0.259525
+Middle SDI,2009,0.259671
+Middle SDI,2010,0.259735
+Middle SDI,2011,0.259769
+Middle SDI,2012,0.259842
+Middle SDI,2013,0.259923
+Middle SDI,2014,0.259997
+Middle SDI,2015,0.260042
+Middle SDI,2016,0.260077
+Middle SDI,2017,0.260102
+Moldova,2007,0.180091
+Moldova,2008,0.180635
+Moldova,2009,0.18116
+Moldova,2010,0.181554
+Moldova,2011,0.181856
+Moldova,2012,0.182169
+Moldova,2013,0.182492
+Moldova,2014,0.182812
+Moldova,2015,0.183131
+Moldova,2016,0.183429
+Moldova,2017,0.18371
+Mongolia,2007,0.184523
+Mongolia,2008,0.185212
+Mongolia,2009,0.185872
+Mongolia,2010,0.186432
+Mongolia,2011,0.186941
+Mongolia,2012,0.18749
+Mongolia,2013,0.188076
+Mongolia,2014,0.188694
+Mongolia,2015,0.189334
+Mongolia,2016,0.189989
+Mongolia,2017,0.190648
+Montenegro,2007,0.200628
+Montenegro,2008,0.200973
+Montenegro,2009,0.201288
+Montenegro,2010,0.201528
+Montenegro,2011,0.201728
+Montenegro,2012,0.20195
+Montenegro,2013,0.202192
+Montenegro,2014,0.202449
+Montenegro,2015,0.202715
+Montenegro,2016,0.202979
+Montenegro,2017,0.203248
+Morocco,2007,0.184043
+Morocco,2008,0.184195
+Morocco,2009,0.184356
+Morocco,2010,0.184528
+Morocco,2011,0.184731
+Morocco,2012,0.184973
+Morocco,2013,0.18525
+Morocco,2014,0.185552
+Morocco,2015,0.185884
+Morocco,2016,0.186242
+Morocco,2017,0.186616
+Mozambique,2007,0.152756
+Mozambique,2008,0.153238
+Mozambique,2009,0.153674
+Mozambique,2010,0.154025
+Mozambique,2011,0.154326
+Mozambique,2012,0.154639
+Mozambique,2013,0.154957
+Mozambique,2014,0.155276
+Mozambique,2015,0.155592
+Mozambique,2016,0.155892
+Mozambique,2017,0.156176
+Myanmar,2007,0.202338
+Myanmar,2008,0.203752
+Myanmar,2009,0.205114
+Myanmar,2010,0.206333
+Myanmar,2011,0.207443
+Myanmar,2012,0.208559
+Myanmar,2013,0.209678
+Myanmar,2014,0.210781
+Myanmar,2015,0.211861
+Myanmar,2016,0.21291
+Myanmar,2017,0.213915
+Namibia,2007,0.173612
+Namibia,2008,0.173958
+Namibia,2009,0.174295
+Namibia,2010,0.174589
+Namibia,2011,0.174871
+Namibia,2012,0.175204
+Namibia,2013,0.175576
+Namibia,2014,0.175981
+Namibia,2015,0.17642
+Namibia,2016,0.176883
+Namibia,2017,0.177365
+Nepal,2007,0.245023
+Nepal,2008,0.244881
+Nepal,2009,0.244777
+Nepal,2010,0.244765
+Nepal,2011,0.244832
+Nepal,2012,0.24495
+Nepal,2013,0.245118
+Nepal,2014,0.245345
+Nepal,2015,0.245631
+Nepal,2016,0.24598
+Nepal,2017,0.246394
+Netherlands,2007,0.375087
+Netherlands,2008,0.374991
+Netherlands,2009,0.374802
+Netherlands,2010,0.374514
+Netherlands,2011,0.373791
+Netherlands,2012,0.372408
+Netherlands,2013,0.370458
+Netherlands,2014,0.368015
+Netherlands,2015,0.365154
+Netherlands,2016,0.361956
+Netherlands,2017,0.358487
+New Zealand,2007,0.340806
+New Zealand,2008,0.34092
+New Zealand,2009,0.341023
+New Zealand,2010,0.341071
+New Zealand,2011,0.341082
+New Zealand,2012,0.341054
+New Zealand,2013,0.341031
+New Zealand,2014,0.340994
+New Zealand,2015,0.34099
+New Zealand,2016,0.341011
+New Zealand,2017,0.341051
+Nicaragua,2007,0.197037
+Nicaragua,2008,0.1974
+Nicaragua,2009,0.197723
+Nicaragua,2010,0.197962
+Nicaragua,2011,0.198147
+Nicaragua,2012,0.198356
+Nicaragua,2013,0.198578
+Nicaragua,2014,0.198815
+Nicaragua,2015,0.199062
+Nicaragua,2016,0.199311
+Nicaragua,2017,0.199563
+Niger,2007,0.161983
+Niger,2008,0.162074
+Niger,2009,0.162175
+Niger,2010,0.162276
+Niger,2011,0.162394
+Niger,2012,0.162546
+Niger,2013,0.162734
+Niger,2014,0.162956
+Niger,2015,0.163212
+Niger,2016,0.163509
+Niger,2017,0.163845
+Nigeria,2007,0.176803
+Nigeria,2008,0.177741
+Nigeria,2009,0.178594
+Nigeria,2010,0.179213
+Nigeria,2011,0.179668
+Nigeria,2012,0.180126
+Nigeria,2013,0.180575
+Nigeria,2014,0.181008
+Nigeria,2015,0.181421
+Nigeria,2016,0.181795
+Nigeria,2017,0.182126
+North Africa and Middle East,2007,0.193916
+North Africa and Middle East,2008,0.194226
+North Africa and Middle East,2009,0.194543
+North Africa and Middle East,2010,0.194732
+North Africa and Middle East,2011,0.194872
+North Africa and Middle East,2012,0.195024
+North Africa and Middle East,2013,0.19517
+North Africa and Middle East,2014,0.195315
+North Africa and Middle East,2015,0.195468
+North Africa and Middle East,2016,0.195606
+North Africa and Middle East,2017,0.19572
+North America,2007,0.337546
+North America,2008,0.336477
+North America,2009,0.335547
+North America,2010,0.335089
+North America,2011,0.334908
+North America,2012,0.334608
+North America,2013,0.334215
+North America,2014,0.333742
+North America,2015,0.333206
+North America,2016,0.332633
+North America,2017,0.33204
+North Korea,2007,0.2341
+North Korea,2008,0.23397
+North Korea,2009,0.233905
+North Korea,2010,0.233938
+North Korea,2011,0.234058
+North Korea,2012,0.234248
+North Korea,2013,0.234506
+North Korea,2014,0.23483
+North Korea,2015,0.235223
+North Korea,2016,0.235679
+North Korea,2017,0.236198
+Northern Ireland,2007,0.258239
+Northern Ireland,2008,0.26019
+Northern Ireland,2009,0.261856
+Northern Ireland,2010,0.262633
+Northern Ireland,2011,0.262766
+Northern Ireland,2012,0.262886
+Northern Ireland,2013,0.262964
+Northern Ireland,2014,0.262999
+Northern Ireland,2015,0.262967
+Northern Ireland,2016,0.262852
+Northern Ireland,2017,0.262631
+Northern Mariana Islands,2007,0.26217
+Northern Mariana Islands,2008,0.261738
+Northern Mariana Islands,2009,0.261294
+Northern Mariana Islands,2010,0.260942
+Northern Mariana Islands,2011,0.260703
+Northern Mariana Islands,2012,0.260392
+Northern Mariana Islands,2013,0.259962
+Northern Mariana Islands,2014,0.259428
+Northern Mariana Islands,2015,0.258891
+Northern Mariana Islands,2016,0.258481
+Northern Mariana Islands,2017,0.258128
+Norway,2007,0.211819
+Norway,2008,0.21157
+Norway,2009,0.211358
+Norway,2010,0.21128
+Norway,2011,0.211302
+Norway,2012,0.211328
+Norway,2013,0.211351
+Norway,2014,0.211372
+Norway,2015,0.211403
+Norway,2016,0.211442
+Norway,2017,0.211484
+Oceania,2007,0.211905
+Oceania,2008,0.21208
+Oceania,2009,0.212258
+Oceania,2010,0.212382
+Oceania,2011,0.212496
+Oceania,2012,0.212679
+Oceania,2013,0.212919
+Oceania,2014,0.213217
+Oceania,2015,0.213565
+Oceania,2016,0.213953
+Oceania,2017,0.214379
+Oman,2007,0.201002
+Oman,2008,0.201548
+Oman,2009,0.201959
+Oman,2010,0.202268
+Oman,2011,0.2026
+Oman,2012,0.202886
+Oman,2013,0.202944
+Oman,2014,0.202879
+Oman,2015,0.202797
+Oman,2016,0.202697
+Oman,2017,0.202474
+Pakistan,2007,0.255591
+Pakistan,2008,0.255835
+Pakistan,2009,0.256068
+Pakistan,2010,0.256252
+Pakistan,2011,0.256381
+Pakistan,2012,0.256476
+Pakistan,2013,0.256541
+Pakistan,2014,0.256567
+Pakistan,2015,0.256563
+Pakistan,2016,0.256521
+Pakistan,2017,0.256442
+Palestine,2007,0.186729
+Palestine,2008,0.186723
+Palestine,2009,0.186753
+Palestine,2010,0.186843
+Palestine,2011,0.18697
+Palestine,2012,0.187124
+Palestine,2013,0.187306
+Palestine,2014,0.18751
+Palestine,2015,0.187741
+Palestine,2016,0.187999
+Palestine,2017,0.188285
+Panama,2007,0.207879
+Panama,2008,0.208358
+Panama,2009,0.208828
+Panama,2010,0.209229
+Panama,2011,0.209602
+Panama,2012,0.210055
+Panama,2013,0.210583
+Panama,2014,0.211175
+Panama,2015,0.211826
+Panama,2016,0.212521
+Panama,2017,0.213259
+Papua New Guinea,2007,0.204996
+Papua New Guinea,2008,0.205322
+Papua New Guinea,2009,0.205668
+Papua New Guinea,2010,0.205975
+Papua New Guinea,2011,0.206284
+Papua New Guinea,2012,0.206679
+Papua New Guinea,2013,0.207141
+Papua New Guinea,2014,0.20767
+Papua New Guinea,2015,0.208256
+Papua New Guinea,2016,0.208884
+Papua New Guinea,2017,0.209555
+Paraguay,2007,0.198872
+Paraguay,2008,0.19914
+Paraguay,2009,0.199419
+Paraguay,2010,0.199668
+Paraguay,2011,0.199914
+Paraguay,2012,0.200228
+Paraguay,2013,0.200591
+Paraguay,2014,0.201005
+Paraguay,2015,0.201451
+Paraguay,2016,0.201928
+Paraguay,2017,0.202426
+Peru,2007,0.199444
+Peru,2008,0.200026
+Peru,2009,0.200574
+Peru,2010,0.200972
+Peru,2011,0.201273
+Peru,2012,0.201593
+Peru,2013,0.201927
+Peru,2014,0.202271
+Peru,2015,0.202619
+Peru,2016,0.202959
+Peru,2017,0.203293
+Philippines,2007,0.217723
+Philippines,2008,0.218167
+Philippines,2009,0.218606
+Philippines,2010,0.218991
+Philippines,2011,0.21941
+Philippines,2012,0.219958
+Philippines,2013,0.220632
+Philippines,2014,0.221422
+Philippines,2015,0.222323
+Philippines,2016,0.223321
+Philippines,2017,0.224422
+Poland,2007,0.203086
+Poland,2008,0.203692
+Poland,2009,0.20426
+Poland,2010,0.204688
+Poland,2011,0.205038
+Poland,2012,0.205428
+Poland,2013,0.205858
+Poland,2014,0.206321
+Poland,2015,0.206806
+Poland,2016,0.207302
+Poland,2017,0.20781
+Portugal,2007,0.248874
+Portugal,2008,0.248821
+Portugal,2009,0.248755
+Portugal,2010,0.248722
+Portugal,2011,0.248717
+Portugal,2012,0.248741
+Portugal,2013,0.248794
+Portugal,2014,0.248883
+Portugal,2015,0.249004
+Portugal,2016,0.24916
+Portugal,2017,0.249372
+Puerto Rico,2007,0.212668
+Puerto Rico,2008,0.21259
+Puerto Rico,2009,0.212515
+Puerto Rico,2010,0.212477
+Puerto Rico,2011,0.212459
+Puerto Rico,2012,0.212442
+Puerto Rico,2013,0.212419
+Puerto Rico,2014,0.212389
+Puerto Rico,2015,0.212372
+Puerto Rico,2016,0.212354
+Puerto Rico,2017,0.212347
+Qatar,2007,0.214384
+Qatar,2008,0.214775
+Qatar,2009,0.215105
+Qatar,2010,0.21529
+Qatar,2011,0.215355
+Qatar,2012,0.215382
+Qatar,2013,0.215392
+Qatar,2014,0.215387
+Qatar,2015,0.215344
+Qatar,2016,0.21526
+Qatar,2017,0.21514
+Romania,2007,0.196782
+Romania,2008,0.197356
+Romania,2009,0.197901
+Romania,2010,0.198337
+Romania,2011,0.198702
+Romania,2012,0.199097
+Romania,2013,0.19951
+Romania,2014,0.199936
+Romania,2015,0.200363
+Romania,2016,0.200786
+Romania,2017,0.201195
+Russia,2007,0.191439
+Russia,2008,0.19325
+Russia,2009,0.194852
+Russia,2010,0.195816
+Russia,2011,0.196308
+Russia,2012,0.196776
+Russia,2013,0.197215
+Russia,2014,0.197612
+Russia,2015,0.197955
+Russia,2016,0.198225
+Russia,2017,0.1984
+Rwanda,2007,0.158538
+Rwanda,2008,0.159198
+Rwanda,2009,0.159827
+Rwanda,2010,0.160326
+Rwanda,2011,0.160746
+Rwanda,2012,0.161204
+Rwanda,2013,0.161689
+Rwanda,2014,0.162187
+Rwanda,2015,0.162693
+Rwanda,2016,0.163197
+Rwanda,2017,0.163688
+Saint Lucia,2007,0.198805
+Saint Lucia,2008,0.199119
+Saint Lucia,2009,0.199399
+Saint Lucia,2010,0.199579
+Saint Lucia,2011,0.199673
+Saint Lucia,2012,0.19976
+Saint Lucia,2013,0.199836
+Saint Lucia,2014,0.199898
+Saint Lucia,2015,0.199943
+Saint Lucia,2016,0.199954
+Saint Lucia,2017,0.199945
+Saint Vincent and the Grenadines,2007,0.194808
+Saint Vincent and the Grenadines,2008,0.195213
+Saint Vincent and the Grenadines,2009,0.195566
+Saint Vincent and the Grenadines,2010,0.195772
+Saint Vincent and the Grenadines,2011,0.195866
+Saint Vincent and the Grenadines,2012,0.19596
+Saint Vincent and the Grenadines,2013,0.196045
+Saint Vincent and the Grenadines,2014,0.19612
+Saint Vincent and the Grenadines,2015,0.196171
+Saint Vincent and the Grenadines,2016,0.196203
+Saint Vincent and the Grenadines,2017,0.196204
+Samoa,2007,0.233763
+Samoa,2008,0.234201
+Samoa,2009,0.234565
+Samoa,2010,0.234772
+Samoa,2011,0.23487
+Samoa,2012,0.234949
+Samoa,2013,0.235005
+Samoa,2014,0.23503
+Samoa,2015,0.235022
+Samoa,2016,0.234975
+Samoa,2017,0.234876
+Sao Tome and Principe,2007,0.175839
+Sao Tome and Principe,2008,0.176217
+Sao Tome and Principe,2009,0.176559
+Sao Tome and Principe,2010,0.1768
+Sao Tome and Principe,2011,0.176983
+Sao Tome and Principe,2012,0.177194
+Sao Tome and Principe,2013,0.177431
+Sao Tome and Principe,2014,0.177684
+Sao Tome and Principe,2015,0.177949
+Sao Tome and Principe,2016,0.178214
+Sao Tome and Principe,2017,0.178482
+Saudi Arabia,2007,0.20276
+Saudi Arabia,2008,0.203209
+Saudi Arabia,2009,0.203634
+Saudi Arabia,2010,0.203959
+Saudi Arabia,2011,0.204214
+Saudi Arabia,2012,0.204473
+Saudi Arabia,2013,0.204741
+Saudi Arabia,2014,0.205005
+Saudi Arabia,2015,0.205256
+Saudi Arabia,2016,0.205494
+Saudi Arabia,2017,0.205707
+Scotland,2007,0.230318
+Scotland,2008,0.23353
+Scotland,2009,0.236251
+Scotland,2010,0.237515
+Scotland,2011,0.23772
+Scotland,2012,0.237922
+Scotland,2013,0.238117
+Scotland,2014,0.238283
+Scotland,2015,0.238414
+Scotland,2016,0.238487
+Scotland,2017,0.238492
+Senegal,2007,0.171567
+Senegal,2008,0.171665
+Senegal,2009,0.171769
+Senegal,2010,0.171877
+Senegal,2011,0.172013
+Senegal,2012,0.17219
+Senegal,2013,0.17241
+Senegal,2014,0.172664
+Senegal,2015,0.172951
+Senegal,2016,0.173269
+Senegal,2017,0.173616
+Serbia,2007,0.196811
+Serbia,2008,0.19731
+Serbia,2009,0.197763
+Serbia,2010,0.198084
+Serbia,2011,0.198333
+Serbia,2012,0.198617
+Serbia,2013,0.198925
+Serbia,2014,0.199253
+Serbia,2015,0.199589
+Serbia,2016,0.199932
+Serbia,2017,0.200264
+Seychelles,2007,0.242506
+Seychelles,2008,0.242758
+Seychelles,2009,0.243027
+Seychelles,2010,0.243319
+Seychelles,2011,0.243683
+Seychelles,2012,0.244154
+Seychelles,2013,0.244724
+Seychelles,2014,0.24537
+Seychelles,2015,0.24609
+Seychelles,2016,0.246864
+Seychelles,2017,0.247689
+Sierra Leone,2007,0.1629
+Sierra Leone,2008,0.16313
+Sierra Leone,2009,0.163355
+Sierra Leone,2010,0.163526
+Sierra Leone,2011,0.16368
+Sierra Leone,2012,0.163884
+Sierra Leone,2013,0.164131
+Sierra Leone,2014,0.164417
+Sierra Leone,2015,0.164737
+Sierra Leone,2016,0.165087
+Sierra Leone,2017,0.165455
+Singapore,2007,0.27266
+Singapore,2008,0.27257
+Singapore,2009,0.272513
+Singapore,2010,0.272571
+Singapore,2011,0.272712
+Singapore,2012,0.27286
+Singapore,2013,0.273013
+Singapore,2014,0.273208
+Singapore,2015,0.273445
+Singapore,2016,0.273738
+Singapore,2017,0.27409
+Slovakia,2007,0.204874
+Slovakia,2008,0.205529
+Slovakia,2009,0.206123
+Slovakia,2010,0.206538
+Slovakia,2011,0.206823
+Slovakia,2012,0.207117
+Slovakia,2013,0.207415
+Slovakia,2014,0.207701
+Slovakia,2015,0.207971
+Slovakia,2016,0.208214
+Slovakia,2017,0.208419
+Slovenia,2007,0.210521
+Slovenia,2008,0.210895
+Slovenia,2009,0.211214
+Slovenia,2010,0.211408
+Slovenia,2011,0.211505
+Slovenia,2012,0.2116
+Slovenia,2013,0.211688
+Slovenia,2014,0.21176
+Slovenia,2015,0.211816
+Slovenia,2016,0.211838
+Slovenia,2017,0.211824
+Solomon Islands,2007,0.207962
+Solomon Islands,2008,0.208195
+Solomon Islands,2009,0.208439
+Solomon Islands,2010,0.208618
+Solomon Islands,2011,0.208774
+Solomon Islands,2012,0.208974
+Solomon Islands,2013,0.20921
+Solomon Islands,2014,0.209484
+Solomon Islands,2015,0.209786
+Solomon Islands,2016,0.210117
+Solomon Islands,2017,0.210462
+Somalia,2007,0.153051
+Somalia,2008,0.153233
+Somalia,2009,0.153402
+Somalia,2010,0.153511
+Somalia,2011,0.153579
+Somalia,2012,0.15365
+Somalia,2013,0.153719
+Somalia,2014,0.153782
+Somalia,2015,0.153839
+Somalia,2016,0.153885
+Somalia,2017,0.153912
+South Africa,2007,0.179562
+South Africa,2008,0.180049
+South Africa,2009,0.180478
+South Africa,2010,0.18077
+South Africa,2011,0.180965
+South Africa,2012,0.181158
+South Africa,2013,0.181346
+South Africa,2014,0.181524
+South Africa,2015,0.181686
+South Africa,2016,0.181825
+South Africa,2017,0.181937
+South Asia,2007,0.260937
+South Asia,2008,0.261231
+South Asia,2009,0.261479
+South Asia,2010,0.261614
+South Asia,2011,0.261542
+South Asia,2012,0.26124
+South Asia,2013,0.260733
+South Asia,2014,0.260053
+South Asia,2015,0.259223
+South Asia,2016,0.258262
+South Asia,2017,0.257193
+South Korea,2007,0.261911
+South Korea,2008,0.262076
+South Korea,2009,0.262215
+South Korea,2010,0.262363
+South Korea,2011,0.262498
+South Korea,2012,0.262663
+South Korea,2013,0.262861
+South Korea,2014,0.263085
+South Korea,2015,0.263347
+South Korea,2016,0.263645
+South Korea,2017,0.263994
+South Sudan,2007,0.168059
+South Sudan,2008,0.168288
+South Sudan,2009,0.168477
+South Sudan,2010,0.168588
+South Sudan,2011,0.168639
+South Sudan,2012,0.168688
+South Sudan,2013,0.168733
+South Sudan,2014,0.16877
+South Sudan,2015,0.168795
+South Sudan,2016,0.168809
+South Sudan,2017,0.168801
+Southeast Asia,2007,0.223966
+Southeast Asia,2008,0.224626
+Southeast Asia,2009,0.225281
+Southeast Asia,2010,0.225872
+Southeast Asia,2011,0.226469
+Southeast Asia,2012,0.227154
+Southeast Asia,2013,0.227918
+Southeast Asia,2014,0.228747
+Southeast Asia,2015,0.229631
+Southeast Asia,2016,0.230559
+Southeast Asia,2017,0.231524
+"Southeast Asia, East Asia, and Oceania",2007,0.296892
+"Southeast Asia, East Asia, and Oceania",2008,0.297552
+"Southeast Asia, East Asia, and Oceania",2009,0.298199
+"Southeast Asia, East Asia, and Oceania",2010,0.298716
+"Southeast Asia, East Asia, and Oceania",2011,0.299215
+"Southeast Asia, East Asia, and Oceania",2012,0.299836
+"Southeast Asia, East Asia, and Oceania",2013,0.300552
+"Southeast Asia, East Asia, and Oceania",2014,0.301336
+"Southeast Asia, East Asia, and Oceania",2015,0.302148
+"Southeast Asia, East Asia, and Oceania",2016,0.303047
+"Southeast Asia, East Asia, and Oceania",2017,0.303991
+Southern Latin America,2007,0.19756
+Southern Latin America,2008,0.197791
+Southern Latin America,2009,0.197997
+Southern Latin America,2010,0.198134
+Southern Latin America,2011,0.198224
+Southern Latin America,2012,0.198343
+Southern Latin America,2013,0.198476
+Southern Latin America,2014,0.198618
+Southern Latin America,2015,0.198767
+Southern Latin America,2016,0.198906
+Southern Latin America,2017,0.199042
+Southern Sub-Saharan Africa,2007,0.175467
+Southern Sub-Saharan Africa,2008,0.175688
+Southern Sub-Saharan Africa,2009,0.175898
+Southern Sub-Saharan Africa,2010,0.176082
+Southern Sub-Saharan Africa,2011,0.176253
+Southern Sub-Saharan Africa,2012,0.176438
+Southern Sub-Saharan Africa,2013,0.17664
+Southern Sub-Saharan Africa,2014,0.176855
+Southern Sub-Saharan Africa,2015,0.177084
+Southern Sub-Saharan Africa,2016,0.177328
+Southern Sub-Saharan Africa,2017,0.177591
+Spain,2007,0.280272
+Spain,2008,0.280144
+Spain,2009,0.280047
+Spain,2010,0.28001
+Spain,2011,0.280047
+Spain,2012,0.280139
+Spain,2013,0.280297
+Spain,2014,0.280512
+Spain,2015,0.280801
+Spain,2016,0.281139
+Spain,2017,0.281539
+Sri Lanka,2007,0.230315
+Sri Lanka,2008,0.230904
+Sri Lanka,2009,0.231506
+Sri Lanka,2010,0.232103
+Sri Lanka,2011,0.232732
+Sri Lanka,2012,0.233449
+Sri Lanka,2013,0.234254
+Sri Lanka,2014,0.235121
+Sri Lanka,2015,0.236051
+Sri Lanka,2016,0.237027
+Sri Lanka,2017,0.238045
+Sub-Saharan Africa,2007,0.166054
+Sub-Saharan Africa,2008,0.166521
+Sub-Saharan Africa,2009,0.166957
+Sub-Saharan Africa,2010,0.16729
+Sub-Saharan Africa,2011,0.167558
+Sub-Saharan Africa,2012,0.16785
+Sub-Saharan Africa,2013,0.168161
+Sub-Saharan Africa,2014,0.168487
+Sub-Saharan Africa,2015,0.16882
+Sub-Saharan Africa,2016,0.169153
+Sub-Saharan Africa,2017,0.169483
+Sudan,2007,0.172616
+Sudan,2008,0.173042
+Sudan,2009,0.173452
+Sudan,2010,0.173777
+Sudan,2011,0.174054
+Sudan,2012,0.17436
+Sudan,2013,0.174694
+Sudan,2014,0.175049
+Sudan,2015,0.175417
+Sudan,2016,0.17579
+Sudan,2017,0.176167
+Suriname,2007,0.184317
+Suriname,2008,0.184766
+Suriname,2009,0.185172
+Suriname,2010,0.185436
+Suriname,2011,0.185616
+Suriname,2012,0.18582
+Suriname,2013,0.186042
+Suriname,2014,0.18628
+Suriname,2015,0.186524
+Suriname,2016,0.186762
+Suriname,2017,0.186999
+Swaziland,2007,0.170421
+Swaziland,2008,0.170571
+Swaziland,2009,0.170729
+Swaziland,2010,0.170885
+Swaziland,2011,0.17106
+Swaziland,2012,0.171277
+Swaziland,2013,0.171533
+Swaziland,2014,0.171827
+Swaziland,2015,0.172153
+Swaziland,2016,0.172507
+Swaziland,2017,0.172883
+Sweden,2007,0.279868
+Sweden,2008,0.279461
+Sweden,2009,0.279036
+Sweden,2010,0.278647
+Sweden,2011,0.278128
+Sweden,2012,0.277314
+Sweden,2013,0.276273
+Sweden,2014,0.275014
+Sweden,2015,0.2736
+Sweden,2016,0.272043
+Sweden,2017,0.270392
+Switzerland,2007,0.261012
+Switzerland,2008,0.261048
+Switzerland,2009,0.261083
+Switzerland,2010,0.261131
+Switzerland,2011,0.261199
+Switzerland,2012,0.261315
+Switzerland,2013,0.261477
+Switzerland,2014,0.261684
+Switzerland,2015,0.26192
+Switzerland,2016,0.262198
+Switzerland,2017,0.262487
+Syria,2007,0.188642
+Syria,2008,0.189156
+Syria,2009,0.189574
+Syria,2010,0.189776
+Syria,2011,0.189821
+Syria,2012,0.189817
+Syria,2013,0.189773
+Syria,2014,0.189668
+Syria,2015,0.189505
+Syria,2016,0.189272
+Syria,2017,0.188966
+Taiwan,2007,0.254683
+Taiwan,2008,0.255607
+Taiwan,2009,0.256529
+Taiwan,2010,0.257333
+Taiwan,2011,0.258062
+Taiwan,2012,0.258838
+Taiwan,2013,0.259646
+Taiwan,2014,0.26046
+Taiwan,2015,0.26129
+Taiwan,2016,0.262127
+Taiwan,2017,0.262939
+Tajikistan,2007,0.178615
+Tajikistan,2008,0.179069
+Tajikistan,2009,0.179498
+Tajikistan,2010,0.179821
+Tajikistan,2011,0.180081
+Tajikistan,2012,0.180374
+Tajikistan,2013,0.180696
+Tajikistan,2014,0.181038
+Tajikistan,2015,0.181397
+Tajikistan,2016,0.181756
+Tajikistan,2017,0.182117
+Tanzania,2007,0.161239
+Tanzania,2008,0.161781
+Tanzania,2009,0.162291
+Tanzania,2010,0.162676
+Tanzania,2011,0.162985
+Tanzania,2012,0.163329
+Tanzania,2013,0.163695
+Tanzania,2014,0.164075
+Tanzania,2015,0.164463
+Tanzania,2016,0.164846
+Tanzania,2017,0.165215
+Thailand,2007,0.229008
+Thailand,2008,0.229636
+Thailand,2009,0.230244
+Thailand,2010,0.230749
+Thailand,2011,0.231224
+Thailand,2012,0.231746
+Thailand,2013,0.232316
+Thailand,2014,0.23292
+Thailand,2015,0.233556
+Thailand,2016,0.23421
+Thailand,2017,0.234879
+Timor,2007,0.198062
+Timor,2008,0.199504
+Timor,2009,0.200798
+Timor,2010,0.201652
+Timor,2011,0.202176
+Timor,2012,0.202665
+Timor,2013,0.203106
+Timor,2014,0.203493
+Timor,2015,0.20382
+Timor,2016,0.204071
+Timor,2017,0.204231
+Togo,2007,0.163374
+Togo,2008,0.163418
+Togo,2009,0.163469
+Togo,2010,0.163519
+Togo,2011,0.16358
+Togo,2012,0.163673
+Togo,2013,0.163798
+Togo,2014,0.163953
+Togo,2015,0.164137
+Togo,2016,0.164342
+Togo,2017,0.164575
+Tonga,2007,0.234712
+Tonga,2008,0.234876
+Tonga,2009,0.235019
+Tonga,2010,0.235116
+Tonga,2011,0.235198
+Tonga,2012,0.235296
+Tonga,2013,0.235406
+Tonga,2014,0.235521
+Tonga,2015,0.235639
+Tonga,2016,0.235762
+Tonga,2017,0.235881
+Trinidad and Tobago,2007,0.174984
+Trinidad and Tobago,2008,0.175582
+Trinidad and Tobago,2009,0.176099
+Trinidad and Tobago,2010,0.176429
+Trinidad and Tobago,2011,0.176622
+Trinidad and Tobago,2012,0.176819
+Trinidad and Tobago,2013,0.177008
+Trinidad and Tobago,2014,0.177185
+Trinidad and Tobago,2015,0.177349
+Trinidad and Tobago,2016,0.177492
+Trinidad and Tobago,2017,0.1776
+Tropical Latin America,2007,0.203241
+Tropical Latin America,2008,0.203655
+Tropical Latin America,2009,0.204035
+Tropical Latin America,2010,0.204286
+Tropical Latin America,2011,0.204443
+Tropical Latin America,2012,0.20461
+Tropical Latin America,2013,0.204782
+Tropical Latin America,2014,0.204954
+Tropical Latin America,2015,0.205124
+Tropical Latin America,2016,0.205289
+Tropical Latin America,2017,0.205442
+Tunisia,2007,0.196608
+Tunisia,2008,0.19686
+Tunisia,2009,0.197078
+Tunisia,2010,0.197242
+Tunisia,2011,0.197361
+Tunisia,2012,0.197489
+Tunisia,2013,0.197619
+Tunisia,2014,0.197751
+Tunisia,2015,0.197875
+Tunisia,2016,0.197995
+Tunisia,2017,0.198099
+Turkey,2007,0.218159
+Turkey,2008,0.218471
+Turkey,2009,0.218774
+Turkey,2010,0.219057
+Turkey,2011,0.219329
+Turkey,2012,0.219624
+Turkey,2013,0.219927
+Turkey,2014,0.220248
+Turkey,2015,0.220578
+Turkey,2016,0.220914
+Turkey,2017,0.221252
+Turkmenistan,2007,0.1884
+Turkmenistan,2008,0.189196
+Turkmenistan,2009,0.190013
+Turkmenistan,2010,0.190787
+Turkmenistan,2011,0.191546
+Turkmenistan,2012,0.192384
+Turkmenistan,2013,0.193282
+Turkmenistan,2014,0.194234
+Turkmenistan,2015,0.195236
+Turkmenistan,2016,0.196275
+Turkmenistan,2017,0.19734
+Uganda,2007,0.156629
+Uganda,2008,0.157161
+Uganda,2009,0.157657
+Uganda,2010,0.158033
+Uganda,2011,0.158334
+Uganda,2012,0.158648
+Uganda,2013,0.158968
+Uganda,2014,0.159291
+Uganda,2015,0.159609
+Uganda,2016,0.159918
+Uganda,2017,0.160208
+Ukraine,2007,0.188245
+Ukraine,2008,0.189018
+Ukraine,2009,0.189694
+Ukraine,2010,0.190093
+Ukraine,2011,0.190299
+Ukraine,2012,0.190497
+Ukraine,2013,0.190671
+Ukraine,2014,0.190807
+Ukraine,2015,0.190897
+Ukraine,2016,0.190957
+Ukraine,2017,0.190966
+United Arab Emirates,2007,0.212188
+United Arab Emirates,2008,0.212683
+United Arab Emirates,2009,0.213088
+United Arab Emirates,2010,0.213138
+United Arab Emirates,2011,0.213037
+United Arab Emirates,2012,0.212867
+United Arab Emirates,2013,0.212624
+United Arab Emirates,2014,0.212287
+United Arab Emirates,2015,0.211855
+United Arab Emirates,2016,0.211336
+United Arab Emirates,2017,0.210718
+United Kingdom,2007,0.252363
+United Kingdom,2008,0.25223
+United Kingdom,2009,0.252212
+United Kingdom,2010,0.252417
+United Kingdom,2011,0.252932
+United Kingdom,2012,0.253794
+United Kingdom,2013,0.254993
+United Kingdom,2014,0.256523
+United Kingdom,2015,0.25837
+United Kingdom,2016,0.260519
+United Kingdom,2017,0.262952
+United States,2007,0.340069
+United States,2008,0.338901
+United States,2009,0.337887
+United States,2010,0.33739
+United States,2011,0.33719
+United States,2012,0.336852
+United States,2013,0.336404
+United States,2014,0.33586
+United States,2015,0.335243
+United States,2016,0.334578
+United States,2017,0.33389
+United States Virgin Islands,2007,0.218362
+United States Virgin Islands,2008,0.218954
+United States Virgin Islands,2009,0.219389
+United States Virgin Islands,2010,0.219549
+United States Virgin Islands,2011,0.219485
+United States Virgin Islands,2012,0.219325
+United States Virgin Islands,2013,0.219063
+United States Virgin Islands,2014,0.218691
+United States Virgin Islands,2015,0.218187
+United States Virgin Islands,2016,0.21755
+United States Virgin Islands,2017,0.216789
+Uruguay,2007,0.196403
+Uruguay,2008,0.196688
+Uruguay,2009,0.196968
+Uruguay,2010,0.19716
+Uruguay,2011,0.197312
+Uruguay,2012,0.197511
+Uruguay,2013,0.197753
+Uruguay,2014,0.198024
+Uruguay,2015,0.198323
+Uruguay,2016,0.198641
+Uruguay,2017,0.198965
+Uzbekistan,2007,0.183641
+Uzbekistan,2008,0.18405
+Uzbekistan,2009,0.184456
+Uzbekistan,2010,0.184825
+Uzbekistan,2011,0.185196
+Uzbekistan,2012,0.185631
+Uzbekistan,2013,0.186123
+Uzbekistan,2014,0.186657
+Uzbekistan,2015,0.187231
+Uzbekistan,2016,0.187838
+Uzbekistan,2017,0.188464
+Vanuatu,2007,0.213544
+Vanuatu,2008,0.214044
+Vanuatu,2009,0.214484
+Vanuatu,2010,0.214731
+Vanuatu,2011,0.214829
+Vanuatu,2012,0.214907
+Vanuatu,2013,0.214961
+Vanuatu,2014,0.21498
+Vanuatu,2015,0.214951
+Vanuatu,2016,0.214872
+Vanuatu,2017,0.214734
+Venezuela,2007,0.202907
+Venezuela,2008,0.203701
+Venezuela,2009,0.204431
+Venezuela,2010,0.20487
+Venezuela,2011,0.205073
+Venezuela,2012,0.205259
+Venezuela,2013,0.205421
+Venezuela,2014,0.205533
+Venezuela,2015,0.205603
+Venezuela,2016,0.205604
+Venezuela,2017,0.205537
+Vietnam,2007,0.236773
+Vietnam,2008,0.237512
+Vietnam,2009,0.238224
+Vietnam,2010,0.238863
+Vietnam,2011,0.239504
+Vietnam,2012,0.24023
+Vietnam,2013,0.241026
+Vietnam,2014,0.241883
+Vietnam,2015,0.242783
+Vietnam,2016,0.243709
+Vietnam,2017,0.244663
+Wales,2007,0.250892
+Wales,2008,0.251077
+Wales,2009,0.251227
+Wales,2010,0.251325
+Wales,2011,0.251378
+Wales,2012,0.251427
+Wales,2013,0.251469
+Wales,2014,0.251519
+Wales,2015,0.251561
+Wales,2016,0.251592
+Wales,2017,0.2516
+Western Europe,2007,0.260435
+Western Europe,2008,0.260376
+Western Europe,2009,0.260322
+Western Europe,2010,0.260304
+Western Europe,2011,0.260317
+Western Europe,2012,0.260337
+Western Europe,2013,0.260377
+Western Europe,2014,0.26045
+Western Europe,2015,0.260566
+Western Europe,2016,0.260731
+Western Europe,2017,0.26096
+Western Sub-Saharan Africa,2007,0.171627
+Western Sub-Saharan Africa,2008,0.172148
+Western Sub-Saharan Africa,2009,0.172626
+Western Sub-Saharan Africa,2010,0.172978
+Western Sub-Saharan Africa,2011,0.173259
+Western Sub-Saharan Africa,2012,0.173572
+Western Sub-Saharan Africa,2013,0.173905
+Western Sub-Saharan Africa,2014,0.174254
+Western Sub-Saharan Africa,2015,0.174616
+Western Sub-Saharan Africa,2016,0.17498
+Western Sub-Saharan Africa,2017,0.17534
+World,2007,0.254239
+World,2008,0.254486
+World,2009,0.254696
+World,2010,0.254797
+World,2011,0.254794
+World,2012,0.254757
+World,2013,0.254687
+World,2014,0.254594
+World,2015,0.254459
+World,2016,0.254282
+World,2017,0.254055
+Yemen,2007,0.173181
+Yemen,2008,0.173272
+Yemen,2009,0.173329
+Yemen,2010,0.173332
+Yemen,2011,0.17327
+Yemen,2012,0.173148
+Yemen,2013,0.172967
+Yemen,2014,0.172728
+Yemen,2015,0.172435
+Yemen,2016,0.172087
+Yemen,2017,0.171691
+Zambia,2007,0.160608
+Zambia,2008,0.161394
+Zambia,2009,0.162138
+Zambia,2010,0.162712
+Zambia,2011,0.163169
+Zambia,2012,0.163635
+Zambia,2013,0.164106
+Zambia,2014,0.164574
+Zambia,2015,0.165027
+Zambia,2016,0.165463
+Zambia,2017,0.165866
+Zimbabwe,2007,0.157715
+Zimbabwe,2008,0.156553
+Zimbabwe,2009,0.15566
+Zimbabwe,2010,0.155312
+Zimbabwe,2011,0.155354
+Zimbabwe,2012,0.155465
+Zimbabwe,2013,0.15567
+Zimbabwe,2014,0.155993
+Zimbabwe,2015,0.156465
+Zimbabwe,2016,0.157111
+Zimbabwe,2017,0.157963
