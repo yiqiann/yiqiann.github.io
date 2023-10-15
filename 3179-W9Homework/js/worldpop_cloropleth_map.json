@@ -21,7 +21,7 @@
         },
         {"calculate": "datum.2022Population", "as": "Population"}
     ],
-    "mark": "geoshape",
+    "mark": {"type": "geoshape"},
     "encoding": {
         "color": {
             "field": "Population",
@@ -33,4 +33,4 @@
             {"field": "Population", "type": "quantitative"}
             ]
     }
-    }
+}

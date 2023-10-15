@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 500,
-    "height": 400,
+    "height": 500,
     "title": {
         "text": "Percentage Composition of Mental Health Disorders across Regions",
         "fontSize": 20,
@@ -10,42 +10,47 @@
     },
     "description": "Stacked bar chart demonstrating the percentage composition of different mental health disorders for each region",
     "data": {
-    "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mdh-region-data.csv"
+        "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mdh-region-data.csv"
     },
     "mark": "bar",
     "transform": [
-    {"filter": "datum.Year == '2017'"},
-    {"fold": ["Schizophrenia", "Bipolar Disorder", "Eating Disorder", "Anxiety Disorder", "Substance Use Disorder", "Depression", "Alcohol Use Disorder"], "as": ["disorder", "value"]}
+        {"filter": "datum.Year == '2017'"},
+        {"fold": ["Schizophrenia", "Bipolar Disorder", "Eating Disorder", "Anxiety Disorder", "Substance Use Disorder", "Depression", "Alcohol Use Disorder"], "as": ["disorder", "value"]}
     ],
     "encoding": {
-    "x": {
-        "aggregate": "sum", 
-        "field": "value", 
-        "type": "quantitative", 
-        "title": "Average Percentage"
-    },
-    "y": {
-        "field": "Region", 
-        "type": "nominal", 
-        "title": "Region",
-        "stack": "zero"
-    },
-    "color": {
-        "field": "disorder", 
-        "type": "nominal", 
-        "title": "Disorder",
-        "scale": {
+        "x": {
+            "aggregate": "sum", 
+            "field": "value", 
+            "type": "quantitative", 
+            "title": "Average Percentage"
+        },
+        "y": {
+            "field": "Region", 
+            "type": "nominal", 
+            "title": "Region",
+            "stack": "zero"
+        },
+        "color": {
+            "field": "disorder", 
+            "type": "nominal", 
+            "title": "Disorder",
+            "scale": {
             "domain": [
-            "Schizophrenia", 
-            "Bipolar Disorder", 
-            "Eating Disorder", 
-            "Anxiety Disorder", 
-            "Substance Use Disorder", 
-            "Depression",
-            "Alcohol Use Disorder"
+                "Schizophrenia", 
+                "Bipolar Disorder", 
+                "Eating Disorder", 
+                "Anxiety Disorder", 
+                "Substance Use Disorder", 
+                "Depression",
+                "Alcohol Use Disorder"
             ],
             "scheme": "dark2"
-        }
-        }
+            }
+        },
+        "tooltip": [
+            {"field": "Year", "title": "Year"},
+            {"field": "disorder", "title": "Disorder"},
+            {"field": "value", "title": "Average Percentage"}
+        ]
     }
 }
