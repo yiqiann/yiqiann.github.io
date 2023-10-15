@@ -4,8 +4,8 @@
     "width": 800,
     "height": 600,
     "data": {
-        "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/js/ne_110m.json",
-        "format": {"type": "topojson", "feature": "ne_110m"}
+        "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/vis/ne_110m_admin_0_countries.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
     },
     "projection": {"type": "equalEarth"},
     "transform": [
