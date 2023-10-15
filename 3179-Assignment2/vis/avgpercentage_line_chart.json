@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,  
+    "height": 550,
+    "title": {
+        "text": "Average percentage of Mental Health Disorder Over 10 Years",
+        "fontSize": 20,
+        "align": "center",
+        "offset": 15
+    },
+    "description": "Average percentage of Mental Health Disorder Over 10 Years",
+    "data": {
+        "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mhd-yearlyaverage-linedata.csv"
+    },
+    "transform": [
+        {"calculate": "datum.Disorder", "as": "disorder"}
+    ],
+    "mark": {
+        "type": "line",
+        "point": true
+    },
+    "encoding": {
+        "x": {"field": "Year", 
+        "type": "ordinal", 
+        "title": "Year"
+        },
+
+    "y": {
+        "field": "Average_val", 
+        "type": "quantitative", 
+        "title": "Average percentage"},
+
+    "color": {
+        "field": "disorder", 
+        "type": "nominal", 
+        "scale": {"scheme": "dark2"}
+        },
+        
+    "tooltip": [
+        {"field": "Year", "title": "Year"},
+        {"field": "Disorder", "title": "Disorder"}
+    ]
+    }
+}

@@ -1,4 +1,4 @@
-entity,year,schizophrenia,bipolar_disorder,eating_disorder,anxiety_disorder,substance_use_disorder,depression,alcohol_use_disorder
+Country,Year,Schizophrenia,Bipolar Disorder,Eating Disorder,Anxiety Disorder,Substance Use Disorder,Depression,Alcohol Use Disorder
 Afghanistan,2007,0.164302,0.703998,0.091688,4.858861,2.405564,4.129728,0.657709
 Afghanistan,2008,0.164639,0.70448,0.093589,4.860437,2.483862,4.129656,0.659501
 Afghanistan,2009,0.164932,0.704925,0.095166,4.861533,2.543884,4.129972,0.661185
