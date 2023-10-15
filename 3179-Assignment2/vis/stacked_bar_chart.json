@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+    "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mdh-region-data.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+    "x": {
+        "aggregate": "sum",
+        "field": "Percentage",
+        "type": "quantitative",
+        "title": "Average Percentage"
+    },
+    "y": {
+        "field": "Region",
+        "type": "nominal",
+        "title": "Region"
+    },
+    "color": {
+        "field": "Attribute",
+        "type": "nominal",
+        "title": "Disorder",
+        "scale": {
+        "domain": [
+            "Schizophrenia",
+            "Bipolar Disorder",
+            "Eating Disorder",
+            "Anxiety Disorder",
+            "Substance Use Disorder",
+            "Depression",
+            "Alcohol Use Disorder"
+        ],
+            "scheme": "dark2"
+        }
+        }
+    }
+}
