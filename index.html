@@ -1,32 +1,50 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+    <head>
+        <meta name="author" content="Avril Chai">
+        <meta name="description" content="FIT3179 Assignment2">
+        <link rel="stylesheet" type="text/css" href="./3179-Assignment2/styles/style.css" media="all">
+        <script src="./3179-Assignment2/vega_lite_vis.js"></script>
+        <title>Prevalence of Mental Health Disorders Across The World</title>
 
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+        
+        <!-- TEMPORARY!! will move this back to js after fixing bug -->
+        <script type="text/javascript">
+            vegaEmbed('#linegraph', "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/vis/avgpercentage_line_chart.json").then(function(result) {
+            }).catch(console.error);
+    
+            vegaEmbed('#stackedbarchart', "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/vis/stacked_bar_chart.json").then(function(result) {
+            }).catch(console.error);
+    
+            vegaEmbed('#cloroplethmap', "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/vis/mhd_chloropleth_map.json").then(function(result) {
+            }).catch(console.error);
+    </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
+    </head>
 
-    <script src="https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/vega_lite_vis.js"></script>
+    <body>
 
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/styles/style.css" media="all">
+        <div class="title"">
+            <h1>Prevalence of Mental Health Disorders Across The World (Draft)</h1>
+        </div>
+        <br><br>
+        <div class="spacer"></div>
 
-</head>
-
-<body>
-
-    test
-    <div id="linegraph"></div>
-
-    <div id="stackedbarchart"></div>
-
-    <div id="chloroplethmap"></div>
-
-
-</body>
+        <div class="linegraph-div">
+            <div id="linegraph"></div>
+        </div>
+        <div class="stackedbarchart-div">
+            <div id="stackedbarchart"></div>
+        </div>
+        <br><br>
+        <div class="cloroplethmap-div">
+            <div id="cloroplethmap"></div>
+        </div>
+        
+    </body>
 
 </html>
