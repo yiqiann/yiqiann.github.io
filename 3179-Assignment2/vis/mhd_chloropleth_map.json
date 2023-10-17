@@ -6,110 +6,54 @@
     "align": "center",
     "offset": 15
   },
-  "width": 800,
-  "height": 400,
-  "data": {
-    "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mhd-schizophrenia-data.csv"
-  },
+  "width": 900,
+  "height": 500,
   "projection": {"type": "equalEarth"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mhd-schizophrenia-data.csv"
+        },
+        "key": "entity",
+        "fields": ["year", "schizophrenia"]
+      }
+    }
+  ],
   "params": [
     {
-      "name": "Year_dropdown",
+      "name": "Year_slider",
       "value": 2017,
       "bind": {
-        "input": "select",
-        "options": [2007, 
-        2008, 
-        2009, 
-        2010, 
-        2011, 
-        2012, 
-        2013, 
-        2014, 
-        2015, 
-        2016, 
-        2017
-        ],
-        "labels": [
-          "2007",
-          "2008",
-          "2009",
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017"
-        ],
+        "input": "range",
+        "min": 2007,
+        "max": 2017,
+        "step": 1,
         "name": "Year: "
       }
     }
   ],
-  "layer": [
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  "mark": {"type": "geoshape", "stroke": "lightgray"},
+  "encoding": {
+    "color": {
+      "field": "schizophrenia",
+      "type": "quantitative",
+      "scale": {
+        "type": "log",
+        "scheme": "purpleblue"
       },
-      "transform": [
-        {
-          "calculate": "'No data available in ' + datum.properties.NAME",
-          "as": "nodata"
-        }
-      ],
-      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
-      "encoding": {"tooltip": {"field": "nodata"}}
+      "legend": {"title": "Prevalence", "labelFontSize": 10}
     },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
-        "format": {"type": "topojson", "feature": "oceans"}
-      },
-      "mark": {"type": "geoshape", "fill": "skyblue"}
-    },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
-      },
-      "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
-    },
-    {
-      "transform": [
-        {
-          "lookup": "entity",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mhd-schizophrenia-data.csv"
-            },
-            "key": "entity",
-            "fields": [
-              "schizophrenia",
-              "year"]
-          }
-        },
-        {
-          "filter": "datum.year == Year_dropdown"
-        },
-        {
-        "calculate": "datum.schizophrenia", "as": "percentage"
-        }
-      ],
-      "mark": "geoshape",
-      "encoding": {
-        "color": {
-          "field": "percentage",
-          "title": "Percentage",
-          "type": "quantitative",
-          "scale": {"type": "linear", "scheme": "purpleblue"}
-        },
-        "tooltip": [
-          {"field": "year", "type": "ordinal"},
-          {"field": "properties.NAME", "type": "nominal", "title": "Country"}
-        ]
-      }
-    }
-  ]
+    "tooltip": [
+      {"field": "year", "type": "nominal", "title": "Year"},
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {"field": "schizophrenia", "type": "quantitative", "title": "Percentage of Population"}
+    ]
+  }
 }
+
