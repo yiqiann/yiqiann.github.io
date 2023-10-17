@@ -35,16 +35,25 @@
             "type": "nominal", 
             "title": "Disorder",
             "scale": {
-            "domain": [
-                "Schizophrenia", 
-                "Bipolar Disorder", 
-                "Eating Disorder", 
-                "Anxiety Disorder", 
-                "Substance Use Disorder", 
-                "Depression",
-                "Alcohol Use Disorder"
-            ],
-            "scheme": "dark2"
+                "domain": [
+                    "Schizophrenia", 
+                    "Bipolar Disorder", 
+                    "Eating Disorder", 
+                    "Anxiety Disorder", 
+                    "Substance Use Disorder", 
+                    "Depression",
+                    "Alcohol Use Disorder"
+                ],
+                "range": [
+                    "#cc442c",
+                    "#6c4c7c",
+                    "#0c84a4",
+                    "#f4cc5c",
+                    "#9cdc64",
+                    "#fca454",
+                    "#8cdcd4"
+                ],
+                "scheme": "dark2"
             }
         },
         "tooltip": [
@@ -52,5 +61,8 @@
             {"field": "disorder", "title": "Disorder"},
             {"field": "value", "title": "Average Percentage"}
         ]
+    },
+    "config": {
+        "background": "#FFFFFF"
     }
 }

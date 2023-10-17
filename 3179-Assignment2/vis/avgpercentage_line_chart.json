@@ -33,7 +33,26 @@
     "color": {
         "field": "disorder", 
         "type": "nominal", 
-        "scale": {"scheme": "dark2"},
+        "scale": {
+            "domain": [
+                "Schizophrenia", 
+                "Bipolar Disorder", 
+                "Eating Disorder", 
+                "Anxiety Disorder", 
+                "Substance Use Disorder", 
+                "Depression",
+                "Alcohol Use Disorder"
+            ],
+            "range": [
+                "#cc442c",
+                "#6c4c7c",
+                "#0c84a4",
+                "#f4cc5c",
+                "#9cdc64",
+                "#fca454",
+                "#8cdcd4"
+            ]
+        },
         "title": "Disorder"
         },
         
@@ -41,5 +60,8 @@
         {"field": "Year", "title": "Year"},
         {"field": "Disorder", "title": "Disorder"}
     ]
+    },
+    "config": {
+        "background": "#FFFFFF"
     }
 }
