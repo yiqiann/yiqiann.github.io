@@ -11,6 +11,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mentalhealthdisorder-cleaned.csv"
   },
+  
   "params": [
     {
       "name": "Year_slider",
@@ -22,7 +23,22 @@
         "step": 1,
         "name": "Year: "
       }
-    }
+    },
+    {
+      "name": "Disorder_select",
+      "value": "Schizophrenia",
+      "bind": {
+        "input": "select",
+        "options": ["Schizophrenia",
+        "Bipolar Disorder", 
+        "Eating Disorder", 
+        "Anxiety Disorder",
+        "Substance Use Disorder",
+        "Depression",
+        "Alcohol Use Disorder"],
+        "name": "Mental Health Disorder: "
+        }
+      }
   ],
   "projection": {"type": "equalEarth"},
   "layer": [
