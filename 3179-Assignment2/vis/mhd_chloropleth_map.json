@@ -101,5 +101,8 @@
       "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"},
       "transform": [{"filter": "datum.Year == Year_slider"}]
     }
-  ]
+  ],
+  "config": {
+    "background": "#f5ece2"
+  }
 }

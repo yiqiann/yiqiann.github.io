@@ -58,10 +58,11 @@
         
     "tooltip": [
         {"field": "Year", "title": "Year"},
-        {"field": "Disorder", "title": "Disorder"}
+        {"field": "Disorder", "title": "Disorder"},
+        {"field": "Average_val", "title": "Average Percentage"}
     ]
     },
     "config": {
-        "background": "#FFFFFF"
+        "background": "#f5ece2"
     }
 }

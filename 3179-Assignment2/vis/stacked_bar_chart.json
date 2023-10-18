@@ -52,8 +52,7 @@
                     "#9cdc64",
                     "#fca454",
                     "#8cdcd4"
-                ],
-                "scheme": "dark2"
+                ]
             }
         },
         "tooltip": [
@@ -63,6 +62,6 @@
         ]
     },
     "config": {
-        "background": "#FFFFFF"
+        "background": "#f5ece2"
     }
 }
