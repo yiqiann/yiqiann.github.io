@@ -119,6 +119,7 @@
     }
   ],
   "config": {
-    "background": "#f5ece2"
+    "background": "#f5ece2",
+    "font": "sans-serif"
   }
 }

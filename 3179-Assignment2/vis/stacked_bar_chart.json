@@ -13,8 +13,21 @@
         "url": "https://raw.githubusercontent.com/yiqiann/yiqiann.github.io/main/3179-Assignment2/datasets/mdh-region-data.csv"
     },
     "mark": "bar",
+    "params": [
+        {
+            "name": "Year_slider",
+            "value": 2017,
+            "bind": {
+            "input": "range",
+            "min": 2007,
+            "max": 2017,
+            "step": 1,
+            "name": "Year: "
+            }
+        }
+    ],
     "transform": [
-        {"filter": "datum.Year == '2017'"},
+        {"filter": "datum.Year == Year_slider"},
         {"fold": ["Schizophrenia", "Bipolar Disorder", "Eating Disorder", "Anxiety Disorder", "Substance Use Disorder", "Depression", "Alcohol Use Disorder"], "as": ["disorder", "value"]}
     ],
     "encoding": {
